@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+# Packaged deliverables are rebuilt by the packaging step; keep them out of version control.
+/Sanyo-Aquarium-Modern-Website.zip
+/Sanyo-Aquarium-Modern-Website-AI.zip

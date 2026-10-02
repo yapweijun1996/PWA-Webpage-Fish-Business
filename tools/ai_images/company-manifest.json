@@ -1,0 +1,177 @@
+{
+  "schema_version": 1,
+  "source_manifest": "data/editorial.json company_images",
+  "tool_reported": "image_gen.imagegen (built-in)",
+  "model_reported": "not reported by tool",
+  "tool_version_reported": "not reported by tool",
+  "images": [
+    {
+      "id": "company-company_photo",
+      "album": "company",
+      "original_path": "source-audit/originals/images/company_photo.jpg",
+      "original_sha256": "adb6d4962fe58240e32fedc0b75cd948bf783a08e99ad8e9aaf809d8533940a8",
+      "pixel_size": {
+        "width": 178,
+        "height": 120
+      },
+      "status": "done",
+      "prompt_used": "Create a clean, hand-painted watercolor illustration based only on the visible scene in the reference photo: a low, white industrial building under a pale sky, a simple frontage with grass and a few small trees. Keep the broad landscape composition and approximate 3:2 aspect ratio. Remove all readable signs, lettering, logos, watermarks, vehicles, and people; leave any sign area blank. Do not invent branding or imply this is a photograph. Soft natural colors, crisp enough for a modern aquarium website card.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:10:02.165966Z",
+      "output_path": "generated/imagen/company/company_photo.webp",
+      "output_sha256": "e012042180ac2bda1b5a3f9184cfd3280cd4f53d77fc270d33943aad18e9e3f8",
+      "output_pixel_size": {
+        "width": 356,
+        "height": 240
+      },
+      "artifact_name": "exec-275b2915-f175-48c3-b4d1-22570ddcd4e4.png",
+      "quality": 90
+    },
+    {
+      "id": "company-sanyo",
+      "album": "company",
+      "original_path": "source-audit/originals/images/sanyo.jpg",
+      "original_sha256": "4afcd6f7756a67d0bb5b3bc29beefb27e0dddd88008a1285a133e16c8829db6e",
+      "pixel_size": {
+        "width": 280,
+        "height": 188
+      },
+      "status": "done",
+      "prompt_used": "Create a hand-painted watercolor illustration based only on the visible scene in the reference: a low white industrial building with a simple front wall, grass and a few small trees. Preserve the broad exterior composition and a 3:2 landscape frame. Remove all readable signs, company names, lettering, logos, watermarks, vehicles, and people; leave sign areas blank. Do not invent branding or imply this is a photograph. This is an illustration of a generic facility, not a factual depiction of Sanyo Aquarium's premises.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:14:53.511014Z",
+      "output_path": "generated/imagen/company/sanyo.webp",
+      "output_sha256": "a83c2fb149c9682e19fc910d5611206e938287cd57f98be5fc99fc81ca8fca3f",
+      "output_pixel_size": {
+        "width": 560,
+        "height": 376
+      },
+      "artifact_name": "exec-7304cb08-ac35-46d3-b172-77fa090f7a87.png",
+      "quality": 90
+    },
+    {
+      "id": "company-about_us1_11",
+      "album": "company",
+      "original_path": "source-audit/originals/images/about_us1_11.jpg",
+      "original_sha256": "3168a63e238df87be0bd62f8b4d5a0c5875a353b8308b3cff2943c051aec89cf",
+      "pixel_size": {
+        "width": 178,
+        "height": 120
+      },
+      "status": "done",
+      "prompt_used": "Create a hand-painted watercolor illustration based only on the visible objects in the reference: stacks of plain cardboard cartons arranged in a warehouse area, viewed at a slight angle. Preserve the broad scene and 3:2 landscape framing. Keep boxes unmarked and remove any readable text, logos, labels, watermarks, people, or invented equipment. This is an illustration, not a documentary photograph. Use restrained warm cardboard tones and natural indoor light.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:10:32.301346Z",
+      "output_path": "generated/imagen/company/about_us1_11.webp",
+      "output_sha256": "054a311d7ee0848d75e20d26d545e832ec20686a127a6d4de8fda78188cf6d73",
+      "output_pixel_size": {
+        "width": 356,
+        "height": 240
+      },
+      "artifact_name": "exec-2dc2cdf5-91c9-487f-9d3a-bd951a57a157.png",
+      "quality": 90
+    },
+    {
+      "id": "company-about_us2_1",
+      "album": "company",
+      "original_path": "source-audit/originals/images/about_us2_1.jpg",
+      "original_sha256": "b33fbfe39ed4d15721bdd3ad72ec7eae5bb6aeded3b4032cf2ac905cd439632c",
+      "pixel_size": {
+        "width": 169,
+        "height": 114
+      },
+      "status": "done",
+      "prompt_used": "Create a hand-painted watercolor illustration based only on the visible scene in the reference: a warehouse packing area with plain cardboard cartons and several clear water-filled bags on the floor, some bags containing small indistinct fish silhouettes. Preserve the general arrangement and 3:2 landscape composition. Do not identify or add species, do not add extra bags or animals, and do not include readable text, labels, logos, watermarks, or people. Keep the silhouettes subtle and consistent with the reference. This is an illustration, not a documentary photograph.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:11:08.621561Z",
+      "output_path": "generated/imagen/company/about_us2_1.webp",
+      "output_sha256": "cf6d4677cb8aedd7b9333bd4ef9c2b2a32c2c4cba6b1cdbdb81709fa506fc562",
+      "output_pixel_size": {
+        "width": 338,
+        "height": 228
+      },
+      "artifact_name": "exec-06df2299-b7e7-4f8e-9181-d3c7742b7384.png",
+      "quality": 90
+    },
+    {
+      "id": "company-about_us3_1",
+      "album": "company",
+      "original_path": "source-audit/originals/images/about_us3_1.jpg",
+      "original_sha256": "1dabfc1d2819b370c3fc0d2a8966bb8bf53999927fbe176b63ce5f079036b1cb",
+      "pixel_size": {
+        "width": 169,
+        "height": 114
+      },
+      "status": "done",
+      "prompt_used": "Create a hand-painted watercolor illustration based only on the visible room layout in the reference: a large indoor packing hall with rows of clear water-filled bags and plain cartons, viewed from one end under a high industrial ceiling. Preserve the broad 3:2 landscape framing and perspective. Omit the distant person. Do not add species-specific details, extra animals, readable text, labels, logos, watermarks, or invented equipment. This is an illustration, not a documentary photograph.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:11:54.511072Z",
+      "output_path": "generated/imagen/company/about_us3_1.webp",
+      "output_sha256": "6be3bb8484338fc99e49766b9abadbf122cea33c6431c646c874819822188170",
+      "output_pixel_size": {
+        "width": 338,
+        "height": 228
+      },
+      "artifact_name": "exec-4dbb1b15-6f5d-492b-a994-d8b079870ad5.png",
+      "quality": 90
+    },
+    {
+      "id": "company-about_us4_1",
+      "album": "company",
+      "original_path": "source-audit/originals/images/about_us4_1.jpg",
+      "original_sha256": "b7935ad68b3dedfc559f7cf1ed485ab83801d872a19196e643fac487f258fe39",
+      "pixel_size": {
+        "width": 163,
+        "height": 110
+      },
+      "status": "done",
+      "prompt_used": "Create a hand-painted watercolor illustration based only on the visible scene in the reference: rows of rectangular glass holding tanks in an indoor aquarium room, viewed at a slight diagonal. Preserve the tank arrangement, room perspective, and 3:2 landscape frame. Do not add fish or other animals, text, company marks, watermarks, people, or equipment not visible in the original. Use cool muted water tones, soft indoor light, and an obviously painted style. This is an illustration, not a documentary photograph of Sanyo Aquarium's facility.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:15:46.425089Z",
+      "output_path": "generated/imagen/company/about_us4_1.webp",
+      "output_sha256": "b72a3aefe2729621896bd5eecd806c8ae4f9954c768b2b125be5011cdb2f3bdd",
+      "output_pixel_size": {
+        "width": 326,
+        "height": 220
+      },
+      "artifact_name": "exec-7dff552d-ece0-4e4a-92b0-b501ccebb33a.png",
+      "quality": 90
+    },
+    {
+      "id": "company-about_us5_1",
+      "album": "company",
+      "original_path": "source-audit/originals/images/about_us5_1.jpg",
+      "original_sha256": "b5065e0784ad8bb7f1b2dee3cfbc63be5c4d7bbce7025001f98ba3aeb51c5983",
+      "pixel_size": {
+        "width": 169,
+        "height": 114
+      },
+      "status": "done",
+      "prompt_used": "Create a hand-painted watercolor illustration based only on the visible scene in the reference: rows of rectangular glass holding tanks in an indoor room, with a few visible hoses, simple equipment, and buckets. Preserve the arrangement and the 3:2 landscape framing. Do not add animals, text, labels, logos, watermarks, people, or equipment not visible in the reference. Use cool water tones and restrained colors. This is an illustration, not a documentary photograph.",
+      "tool_reported": "image_gen.imagegen (built-in)",
+      "model_reported": "not reported by tool",
+      "tool_version_reported": "not reported by tool",
+      "generation_time": "2026-10-02T09:12:31.432162Z",
+      "output_path": "generated/imagen/company/about_us5_1.webp",
+      "output_sha256": "0d577b4b933d9ba3fd70def7c4a55a28cedd2e29ac07c718cef53691325bbafb",
+      "output_pixel_size": {
+        "width": 338,
+        "height": 228
+      },
+      "artifact_name": "exec-737ac5d5-e13d-41aa-ac8c-25cd8b56f6c9.png",
+      "quality": 90
+    }
+  ]
+}

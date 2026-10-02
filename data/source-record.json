@@ -1,0 +1,4068 @@
+{
+ "source_base": "https://www.sanyoaqm.com.sg/",
+ "note": "All 'text' values are verbatim from the original pages (whitespace normalised). Classes: company_information, contact_details, product_category, named_product, gallery_image, care_information, supply_form, shipment_information, historical_claim.",
+ "pages": {
+  "aboutus.html": {
+   "url": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "title": "Welcome to sanyoaqm.com.sg - Company Profile",
+   "last_modified": "Tue, 10 Jul 2012 07:00:40 GMT",
+   "captured_at": "2026-10-02T01:32:42Z",
+   "sha256": "44aed675ba51d73ac5609ade03d74efb9b11c85000fa69a898a285d689aa17e8",
+   "bytes": 10195,
+   "commented_out_text": [
+    "About Us"
+   ],
+   "commented_out_images": []
+  },
+  "aquaticplants.html": {
+   "url": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "title": "Welcome to sanyoaqm.com.sg",
+   "last_modified": "Tue, 10 Jul 2012 07:00:42 GMT",
+   "captured_at": "2026-10-02T01:32:43Z",
+   "sha256": "7458887cf2671bad5f4c6f761b0c18cb93a62ac5489091e55101db83da4625a7",
+   "bytes": 8236,
+   "commented_out_text": [
+    "Aquatic Plants",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "aquaticplants_2.html": {
+   "url": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "title": "Welcome to sanyoaqm.com.sg - Aquatic Plant",
+   "last_modified": "Tue, 10 Jul 2012 07:00:43 GMT",
+   "captured_at": "2026-10-02T01:32:47Z",
+   "sha256": "622d393ef06be2ad9eb4869640dcbac16d7eb6e8cfa9a3f63a3d1a48072a5f70",
+   "bytes": 8247,
+   "commented_out_text": [
+    "Aquatic Plants",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "aquaticplants_3.html": {
+   "url": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "title": "Welcome to sanyoaqm.com.sg - Aquatic Plant",
+   "last_modified": "Tue, 10 Jul 2012 07:00:45 GMT",
+   "captured_at": "2026-10-02T01:32:47Z",
+   "sha256": "23b72fd01b0f4f3e406cfcf472c8737a36267f790bf5f2bfd228006b98bd38d5",
+   "bytes": 7997,
+   "commented_out_text": [
+    "Aquatic Plants",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "aquaticplants_on_driftwood.html": {
+   "url": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+   "title": "Welcome to sanyoaqm.com.sg - Aquatic Plant",
+   "last_modified": "Tue, 10 Jul 2012 07:00:47 GMT",
+   "captured_at": "2026-10-02T01:32:46Z",
+   "sha256": "069532f4115b467c7d2470ef7d46d6c175d2d008a18cd66b43e24f2747c408f8",
+   "bytes": 7222,
+   "commented_out_text": [
+    "Aquatic Plants",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "contact.html": {
+   "url": "https://www.sanyoaqm.com.sg/contact.html",
+   "title": "Welcome to sanyoaqm.com.sg - Contact Us",
+   "last_modified": "Tue, 10 Jul 2012 07:00:19 GMT",
+   "captured_at": "2026-10-02T01:32:44Z",
+   "sha256": "64f3dab248134c2305bde1a8132e1e677dd4ed2af4b326a46d5d8c2f8cff194e",
+   "bytes": 9383,
+   "commented_out_text": [
+    "Contact Us"
+   ],
+   "commented_out_images": [
+    "images/SanyoPhoto.jpg"
+   ]
+  },
+  "driftwood.html": {
+   "url": "https://www.sanyoaqm.com.sg/driftwood.html",
+   "title": "Welcome to sanyoaqm.com.sg - Driftwood",
+   "last_modified": "Tue, 10 Jul 2012 07:00:49 GMT",
+   "captured_at": "2026-10-02T01:32:44Z",
+   "sha256": "06e725043ffab82f16e5f115723ac30e9cd9808404f0c89b70a5cb7977729211",
+   "bytes": 6437,
+   "commented_out_text": [
+    "Driftwood",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:26 GMT",
+   "captured_at": "2026-10-02T01:32:43Z",
+   "sha256": "2957808fe4c5853d0a915d54806c17be8c26724d790db67019946b3f2bf97d82",
+   "bytes": 7000,
+   "commented_out_text": [
+    "Fresh Water Fishes"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes_cichild.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:28 GMT",
+   "captured_at": "2026-10-02T01:32:46Z",
+   "sha256": "6e2c0f8dda35dbdf881122cb746c761539a3444255121bd413dad11700124b7f",
+   "bytes": 9308,
+   "commented_out_text": [
+    "Fresh Water Fishes",
+    "Start contecnt",
+    "POECILIA LATIPINNA pH: 7-8.5; Temperature: 21-26 Degree Celsius; Hardy and easy to take care of; preferring slightly alkaline water; These fish will readily breed. It is recommended to provide a variety of foods, preferably live.",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes_guppy.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:30 GMT",
+   "captured_at": "2026-10-02T01:32:45Z",
+   "sha256": "4642bfe12749ab8e97e67e728be6275f67c6ddb11d5673b2a6ac09898df4b5df",
+   "bytes": 9336,
+   "commented_out_text": [
+    "Fresh Water Fishes",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes_molly.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:32 GMT",
+   "captured_at": "2026-10-02T01:32:45Z",
+   "sha256": "a09a2be939a7806109ca4e6fe1b70a31b9f6f4a5d429a5618383cef6791c236c",
+   "bytes": 9077,
+   "commented_out_text": [
+    "Fresh Water Fishes",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes_platy.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:34 GMT",
+   "captured_at": "2026-10-02T01:32:45Z",
+   "sha256": "e1d01b3e4c76cff14e885d62ae6357dde788b6fde23623d017bf14eacc8be4db",
+   "bytes": 10118,
+   "commented_out_text": [
+    "Fresh Water Fishes",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes_platy_2.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:36 GMT",
+   "captured_at": "2026-10-02T01:32:48Z",
+   "sha256": "b100d5c00e4414f68082746077a850a9498db1e45c33b10cd2de44639d0c0779",
+   "bytes": 9557,
+   "commented_out_text": [
+    "Fresh Water Fishes",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "freshwaterfishes_swordtail.html": {
+   "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:38 GMT",
+   "captured_at": "2026-10-02T01:32:46Z",
+   "sha256": "aa8628e14a520e5e6cadffbf1e48c038908c9833bf2aa65320500c23c1ca4b2a",
+   "bytes": 9157,
+   "commented_out_text": [
+    "Fresh Water Fishes",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": [
+    "images/freshwater_fishes/molly/136.jpg",
+    "images/freshwater_fishes/molly/141.jpg",
+    "images/freshwater_fishes/molly/142.jpg",
+    "images/freshwater_fishes/molly/110.jpg",
+    "images/freshwater_fishes/molly/130.jpg"
+   ]
+  },
+  "index.html": {
+   "url": "https://www.sanyoaqm.com.sg/index.html",
+   "title": "Welcome to sanyoaqm.com.sg",
+   "last_modified": "Tue, 10 Jul 2012 07:00:24 GMT",
+   "captured_at": "2026-10-02T01:32:42Z",
+   "sha256": "6a96ef5b9ff0dcda27fa7dc09256d8fdb232d01b9a99c9402166ab059f7235e1",
+   "bytes": 6613,
+   "commented_out_text": [
+    "&nbsp;"
+   ],
+   "commented_out_images": [
+    "images/images/homepic11.jpg"
+   ]
+  },
+  "marinefish.html": {
+   "url": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "title": "Welcome to sanyoaqm.com.sg - Marine Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:00:58 GMT",
+   "captured_at": "2026-10-02T01:32:43Z",
+   "sha256": "dd2bc969a300c6dfdad9f9321fed7fc7f23301904ae8382f98ffb8e0f2b7be07",
+   "bytes": 6613,
+   "commented_out_text": [
+    "Marine Fishes",
+    "These are the sample of our products:"
+   ],
+   "commented_out_images": []
+  },
+  "marinefish_more_pictures_1.html": {
+   "url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "title": "Welcome to sanyoaqm.com.sg - Marine Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:01:00 GMT",
+   "captured_at": "2026-10-02T01:32:47Z",
+   "sha256": "b6ef4cd88212b9677495f95c87d615ef294ec1401137a895192a8cc5913783d6",
+   "bytes": 7254,
+   "commented_out_text": [
+    "Marine Fishes",
+    "These are the sample of our products:",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "marinefish_more_pictures_2.html": {
+   "url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "title": "Welcome to sanyoaqm.com.sg - Marine Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:01:01 GMT",
+   "captured_at": "2026-10-02T01:32:48Z",
+   "sha256": "9e239f583e8ff287f32600320ef2ad95be934d6a572691d76c8f78685eec399c",
+   "bytes": 6947,
+   "commented_out_text": [
+    "Marine Fishes",
+    "These are the sample of our products:",
+    "Start contecnt",
+    "End content"
+   ],
+   "commented_out_images": []
+  },
+  "newfishes.html": {
+   "url": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "title": "Welcome to sanyoaqm.com.sg - New Fish",
+   "last_modified": "Tue, 10 Jul 2012 07:01:03 GMT",
+   "captured_at": "2026-10-02T01:32:44Z",
+   "sha256": "412c1d48ba287c0820f84a95e30ff586cb318ba5ca6897bedd0fd5a32515d88f",
+   "bytes": 9038,
+   "commented_out_text": [
+    "Aquatic Plants",
+    "Start contecnt",
+    "Puntius Denisoni or Red Torpedo Barb",
+    "Botia Kubotia",
+    "End content"
+   ],
+   "commented_out_images": []
+  }
+ },
+ "blocks": [
+  {
+   "id": "home.meta_description",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/index.html",
+   "text": "Sanyo Aquarium Pte Ltd, fish exporter in Singapore"
+  },
+  {
+   "id": "home.meta_keywords",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/index.html",
+   "text": "glass fish,loach,eel,catfish,fighting fish,rasbora,pacu,stingray,frog,rainbow fish,invertebrate,arowana,knife fish,scat fish,snail,puffer,OFI,AVA,SAFEA,ornamental fish international,singapore aquarium fish exporters' association,agri-food & veterinary authority of singapore,exporter,fish exporter"
+  },
+  {
+   "id": "about.intro",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Sanyo Aquarium is one of Singapore's leading exporter of ornamental freshwater fish, ornamental marine fish & invertebrates, aquatic plants & potted plants. With a history of over 37 years, we have a proven track record in consistently delivering high quality fishes and plants to our customers in shortest time possible, and at competitive price. We are also a member of the Ornamental Fish International (OFI), Singapore Aquarium Fish Exporters' Association (SAFEA), and have actively participated in the Accredited Ornamental Fish Exported Scheme which is certified by the Agri-food & Veterinary Authority of Singapore (AVA)."
+  },
+  {
+   "id": "about.customers",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "We have satisfied customers who have been buying from us for over 35 years. Most of them are from countries such as United Kingdom, France, Germany, Japan, Australia, Netherlands, Sweden, Kuwait, Cyprus, Cairo, New Zealand, French Polynesia, etc."
+  },
+  {
+   "id": "about.qualities.intro",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "As a major exporter, we are able to fulfill orders of varying types of fishes or plants and of varying quantities. We have instituted quality controls and quarantine techniques that meet the most stringent import requirements of the destination countries."
+  },
+  {
+   "id": "about.quality_process.1",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Visual checks on all fishes from our suppliers"
+  },
+  {
+   "id": "about.quality_process.2",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Reject fishes that do not meet ours and customers' quality standards"
+  },
+  {
+   "id": "about.quality_process.3",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Imported fishes are kept in quarantine for 2 weeks in our quarantine areas (There are over 600 holding tanks in our quarantine house)"
+  },
+  {
+   "id": "about.quality_process.4",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Fishes are fed with high quality feed and treatment during the quarantine period"
+  },
+  {
+   "id": "about.quality_process.5",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Conditioning the fishes using our in-house treatment on the shipment day prior to packing for export"
+  },
+  {
+   "id": "about.quality_process.6",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Automated packing technology and sealing machines to ensure that the fishes reached the customers in optimum condition"
+  },
+  {
+   "id": "about.services.1",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Export of local freshwater fishes including Platies, Swordtails, Angels, Guppies, Colisa, Mollies etc."
+  },
+  {
+   "id": "about.services.2",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Export of imported fishes from Indonesia, Malaysia, Thailand etc."
+  },
+  {
+   "id": "about.services.3",
+   "class": "historical_claim",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "24-hrs customer support"
+  },
+  {
+   "id": "about.assurance.1",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Top quality fishes and reliable service"
+  },
+  {
+   "id": "about.assurance.2",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Competitive pricing and freight costs"
+  },
+  {
+   "id": "about.assurance.3",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Availability of new and high-demand species"
+  },
+  {
+   "id": "about.assurance.4",
+   "class": "company_information",
+   "source_page": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "text": "Continual improvements to our quality controls and services"
+  },
+  {
+   "id": "contact.intro",
+   "class": "contact_details",
+   "source_page": "https://www.sanyoaqm.com.sg/contact.html",
+   "text": "If you have any enquiries, please contact us."
+  },
+  {
+   "id": "contact.address_block",
+   "class": "contact_details",
+   "source_page": "https://www.sanyoaqm.com.sg/contact.html",
+   "text": "SANYO AQUARIUM (PTE) LTD | 3 Chencharu Link | Singapore 768144 | Tel: +65 6481 3111 | Fax: +65 6481 6333 | +65 6481 6688 | Email: | sales@sanyoaqm.com.sg | info@sanyoaqm.com.sg"
+  },
+  {
+   "id": "freshwater.intro",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Sanyo Aquarium carries an extensive range of finest freshwater ornamental fish especially the platy, swordtail, mollies, barb, guppy, tetra, angel as shown below:"
+  },
+  {
+   "id": "freshwater.click_hint",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "[Click Platy, Molly, Guppy, Swordtail, Cichild for photos]"
+  },
+  {
+   "id": "freshwater.category.1",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Platy",
+   "link": "freshwaterfishes_platy.html"
+  },
+  {
+   "id": "freshwater.category.2",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Guppy",
+   "link": "freshwaterfishes_guppy.html"
+  },
+  {
+   "id": "freshwater.category.3",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Molly",
+   "link": "freshwaterfishes_molly.html"
+  },
+  {
+   "id": "freshwater.category.4",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Swordtail",
+   "link": "freshwaterfishes_swordtail.html"
+  },
+  {
+   "id": "freshwater.category.5",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Tetra",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.6",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Barb",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.7",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Danio",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.8",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Gourami",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.9",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Angel",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.10",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Catfish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.11",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Glass Fish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.12",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Shark",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.13",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Eel",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.14",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Goldfish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.15",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Koi",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.16",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Cichild",
+   "link": "freshwaterfishes_cichild.html"
+  },
+  {
+   "id": "freshwater.category.17",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Fighting Fish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.18",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Shrimps",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.19",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Snails",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.20",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Knife Fish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.21",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Scat Fish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.22",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Snail",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.23",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "Puffer Fish",
+   "link": null
+  },
+  {
+   "id": "freshwater.category.24",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "text": "other",
+   "link": null
+  },
+  {
+   "id": "marine.intro",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Sanyo Aquarium provides an extensive assortment of health marine fishes."
+  },
+  {
+   "id": "marine.category.1",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Angel Fish"
+  },
+  {
+   "id": "marine.category.2",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Butterfly Fish"
+  },
+  {
+   "id": "marine.category.3",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Banner Fish"
+  },
+  {
+   "id": "marine.category.4",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Batfish"
+  },
+  {
+   "id": "marine.category.5",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Anemone Fish"
+  },
+  {
+   "id": "marine.category.6",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Damsel Fish"
+  },
+  {
+   "id": "marine.category.7",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Chromis Fish"
+  },
+  {
+   "id": "marine.category.8",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Surgeon Fish"
+  },
+  {
+   "id": "marine.category.9",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Goby Fish"
+  },
+  {
+   "id": "marine.category.10",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Blenny Fish"
+  },
+  {
+   "id": "marine.category.11",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Eel"
+  },
+  {
+   "id": "marine.category.12",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Gramma Fish"
+  },
+  {
+   "id": "marine.category.13",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Wrasse"
+  },
+  {
+   "id": "marine.category.14",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Anthias Fish"
+  },
+  {
+   "id": "marine.category.15",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Grouper"
+  },
+  {
+   "id": "marine.category.16",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Lion Fish"
+  },
+  {
+   "id": "marine.category.17",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Sweetlips Fish"
+  },
+  {
+   "id": "marine.category.18",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Pipefish"
+  },
+  {
+   "id": "marine.category.19",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Puffer Fish"
+  },
+  {
+   "id": "marine.category.20",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Shark"
+  },
+  {
+   "id": "marine.category.21",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Hawk Fish"
+  },
+  {
+   "id": "marine.category.22",
+   "class": "product_category",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "text": "Trigger"
+  },
+  {
+   "id": "plants.intro",
+   "class": "supply_form",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "Sanyo Aquarium carries a wide variety of the aquatic plants and are sold in loose plants, lead bunch and potted plants and plants on driftwood"
+  },
+  {
+   "id": "driftwood.intro",
+   "class": "shipment_information",
+   "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+   "text": "Sanyo carries driftwood ranging from different shapes and sizes. Driftwoods are packed in 20 footer container and sent by sea"
+  },
+  {
+   "id": "freshwater-platy.p1.heading",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "XIPHOPHORUS MACULATUS"
+  },
+  {
+   "id": "freshwater-platy.p1.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "pH: 7.3; Temperature: 25 Degree Celsius;",
+   "ph": "7.3",
+   "temperature": "25 Degree Celsius"
+  },
+  {
+   "id": "freshwater-platy.p1.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "Small, hardy, active, peaceful and pretty. Platies are bred very much the same as Guppies; except that they are a little less likely to eat their young. Temperature to breed platies usually range from 65 to 90, but do best at about 74 Degree Celsius."
+  },
+  {
+   "id": "freshwater-platy.p2.heading",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "XIPHOPHORUS MACULATUS"
+  },
+  {
+   "id": "freshwater-platy.p2.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "pH: 7.3; Temperature: 25 Degree Celsius;",
+   "ph": "7.3",
+   "temperature": "25 Degree Celsius"
+  },
+  {
+   "id": "freshwater-platy.p2.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "Small, hardy, active, peaceful and pretty. Platies are bred very much the same as Guppies; except that they are a little less likely to eat their young. Temperature to breed platies usually range from 65 to 90, but do best at about 74 Degree Celcious."
+  },
+  {
+   "id": "freshwater-platy.img.005",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/005.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/005.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.004",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/004.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/004.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.008",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/008.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/008.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.015",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/015.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/015.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.022",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/022.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/022.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.025",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/025.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/025.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.031",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/031.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/031.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.036",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/036.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/036.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.040",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/040.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/040.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.043",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/043.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/043.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.045",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/045.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/045.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.053",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "text": "images/freshwater_fishes/platy/053.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/053.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.192",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/192.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/192.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.058",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/058.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/058.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.061",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/061.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/061.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.067",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/067.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/067.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.079",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/079.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/079.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.083",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/083.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/083.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.089",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/089.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/089.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.182",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/182.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/182.jpg"
+  },
+  {
+   "id": "freshwater-platy.img.072",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "text": "images/freshwater_fishes/platy/072.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/072.jpg"
+  },
+  {
+   "id": "freshwater-molly.p1.heading",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "POECILIA LATIPINNA"
+  },
+  {
+   "id": "freshwater-molly.p1.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "pH: 7-8.5; Temperature: 21-26 Degree Celsius;",
+   "ph": "7-8.5",
+   "temperature": "21-26 Degree Celsius"
+  },
+  {
+   "id": "freshwater-molly.p1.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "Hardy and easy to take care of; preferring slightly alkaline water; These fish will readily breed. It is recommended to provide a variety of foods, preferably live."
+  },
+  {
+   "id": "freshwater-molly.img.122",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/122.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/122.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.120",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/120.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/120.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.126",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/126.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/126.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.147",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/147.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/147.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.136",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/136.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/136.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.141",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/141.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/141.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.142",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/142.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/142.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.110",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/110.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/110.jpg"
+  },
+  {
+   "id": "freshwater-molly.img.130",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "text": "images/freshwater_fishes/molly/130.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/130.jpg"
+  },
+  {
+   "id": "freshwater-guppy.p1.heading",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "POECILIA RETICULATA"
+  },
+  {
+   "id": "freshwater-guppy.p1.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "pH: 7.3; Temperature: 27 Degree Celsius;",
+   "ph": "7.3",
+   "temperature": "27 Degree Celsius"
+  },
+  {
+   "id": "freshwater-guppy.p1.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "Small, beautiful, peaceful, lively and hardy; there is a myriad of colorful variants that can be collected and easily bred."
+  },
+  {
+   "id": "freshwater-guppy.img.161",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/161.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/161.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.169",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/169.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/169.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.153",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/153.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/153.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.157",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/157.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/157.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.166",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/166.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/166.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.094",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/094.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/094.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.102",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/102.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/102.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.12",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/12.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/12.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.30",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/30.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/30.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.32",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/32.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/32.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.42",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/42.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/42.jpg"
+  },
+  {
+   "id": "freshwater-guppy.img.50",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "text": "images/freshwater_fishes/guppy/50.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/50.jpg"
+  },
+  {
+   "id": "freshwater-swordtail.p1.heading",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "XIPHOPHORUS HELERI"
+  },
+  {
+   "id": "freshwater-swordtail.p1.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "pH: 7-8; Temperature: 25 Degree Celsius;",
+   "ph": "7-8",
+   "temperature": "25 Degree Celsius"
+  },
+  {
+   "id": "freshwater-swordtail.p1.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "Swordtail is a peaceful species and is desirable in the community tank. Only the males have a sword shaped Caudal fin extension formed from the eight lowermost fin rays. Females are most robust and have a gravid patch."
+  },
+  {
+   "id": "freshwater-swordtail.img.04",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "images/freshwater_fishes/swordtail/04.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/04.jpg"
+  },
+  {
+   "id": "freshwater-swordtail.img.IMG_0990",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "images/freshwater_fishes/swordtail/IMG_0990.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/IMG_0990.jpg"
+  },
+  {
+   "id": "freshwater-swordtail.img.05",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "images/freshwater_fishes/swordtail/05.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/05.jpg"
+  },
+  {
+   "id": "freshwater-swordtail.img.IMG_1005",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "text": "images/freshwater_fishes/swordtail/IMG_1005.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/IMG_1005.jpg"
+  },
+  {
+   "id": "freshwater-cichild.p1.heading",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "CICHILD"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_0804",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_0804.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0804.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_0833",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_0833.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0833.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_0949",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_0949.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0949.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_0982",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_0982.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0982.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_1429",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_1429.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1429.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_1448",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_1448.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1448.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_1464",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_1464.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1464.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_1483",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_1483.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1483.jpg"
+  },
+  {
+   "id": "freshwater-cichild.img.IMG_1495",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "text": "images/freshwater_fishes/cichild/IMG_1495.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1495.jpg"
+  },
+  {
+   "id": "marine-fishes.img.01",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/01.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/01.jpg"
+  },
+  {
+   "id": "marine-fishes.img.02",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/02.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/02.jpg"
+  },
+  {
+   "id": "marine-fishes.img.03",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/03.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/03.jpg"
+  },
+  {
+   "id": "marine-fishes.img.04",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/04.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/04.jpg"
+  },
+  {
+   "id": "marine-fishes.img.05",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/05.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/05.jpg"
+  },
+  {
+   "id": "marine-fishes.img.07",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/07.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/07.jpg"
+  },
+  {
+   "id": "marine-fishes.img.06",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/06.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/06.jpg"
+  },
+  {
+   "id": "marine-fishes.img.08",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/08.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/08.jpg"
+  },
+  {
+   "id": "marine-fishes.img.09",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "text": "images/marine_fishes/09.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/09.jpg"
+  },
+  {
+   "id": "marine-fishes.img.10",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "text": "images/marine_fishes/10.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/10.jpg"
+  },
+  {
+   "id": "marine-fishes.img.11",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "text": "images/marine_fishes/11.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/11.jpg"
+  },
+  {
+   "id": "marine-fishes.img.12",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "text": "images/marine_fishes/12.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/12.jpg"
+  },
+  {
+   "id": "marine-fishes.img.13",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "text": "images/marine_fishes/13.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/13.jpg"
+  },
+  {
+   "id": "marine-fishes.img.14",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "text": "images/marine_fishes/14.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/14.jpg"
+  },
+  {
+   "id": "marine-fishes.img.15",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "text": "images/marine_fishes/15.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/15.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.21",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/21.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/21.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.24",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/24.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/24.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.22",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/22.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/22.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.20",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/20.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/20.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.13",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/13.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/13.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.11",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/11.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/11.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.10",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/10.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/10.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.7",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/7.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/7.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.6",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "text": "images/aquatic_plants/6.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/6.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.5",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/5.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/5.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.4",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/4.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/4.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.3",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/3.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/3.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.2",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/2.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/2.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.1",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/1.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/1.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.35",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/35.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/35.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.34",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/34.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/34.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.33",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/33.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/33.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.32",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "text": "images/aquatic_plants/32.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/32.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.27",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "text": "images/aquatic_plants/27.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/27.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.26",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "text": "images/aquatic_plants/26.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/26.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.14",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "text": "images/aquatic_plants/14.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/14.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.8",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "text": "images/aquatic_plants/8.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/8.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.31",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "text": "images/aquatic_plants/31.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/31.jpg"
+  },
+  {
+   "id": "aquatic-plants.img.9",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "text": "images/aquatic_plants/9.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/9.jpg"
+  },
+  {
+   "id": "plants-on-driftwood.img.30",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+   "text": "images/aquatic_plants/30.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/30.jpg"
+  },
+  {
+   "id": "plants-on-driftwood.img.29",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+   "text": "images/aquatic_plants/29.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/29.jpg"
+  },
+  {
+   "id": "plants-on-driftwood.img.28",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+   "text": "images/aquatic_plants/28.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/28.jpg"
+  },
+  {
+   "id": "driftwood.img.7",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+   "text": "images/driftwood/7.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/driftwood/7.jpg"
+  },
+  {
+   "id": "driftwood.img.8",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+   "text": "images/driftwood/8.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/driftwood/8.jpg"
+  },
+  {
+   "id": "driftwood.img.9",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+   "text": "images/driftwood/9.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/driftwood/9.jpg"
+  },
+  {
+   "id": "newfishes.1.name",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "PUNTIUS DENISONI",
+   "image": "images/new_fishes/181.jpg"
+  },
+  {
+   "id": "newfishes.1.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "pH: 6.5 - 7.5 Temperature: 18 - 25 Degree Celsius"
+  },
+  {
+   "id": "newfishes.1.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "A very impressive looking barb. There are two colour forms, they have a vivid red line and the difference being that in one colour form the black line starts at the tip of the snout with more vivid colouration. Their maximum size is around 10cm whilst the larger form achieves a size of around 14 to 15cm."
+  },
+  {
+   "id": "newfishes.1.photo",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "images/new_fishes/181.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/new_fishes/181.jpg"
+  },
+  {
+   "id": "newfishes.2.name",
+   "class": "named_product",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "BOTIA KUBOTIA",
+   "image": "images/new_fishes/173.jpg"
+  },
+  {
+   "id": "newfishes.2.care",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "pH: 6.8 - 7.3 Temperature: 23 - 27 Degree Celsius"
+  },
+  {
+   "id": "newfishes.2.description",
+   "class": "care_information",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "A very social fish, it is best to keep them in groups of three or more. Numerous shelters should be provided which gives them greater security and generally makes them bolder. They are an active loach and can be seen hovering around the upper levels. This species is very variable in pattern and can change quite dramatically as it grows. Generally, the dark areas gradually increase in size as the fish matures."
+  },
+  {
+   "id": "newfishes.2.photo",
+   "class": "gallery_image",
+   "source_page": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "text": "images/new_fishes/173.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/new_fishes/173.jpg"
+  }
+ ],
+ "albums": [
+  {
+   "id": "freshwater-platy",
+   "section": "freshwater",
+   "source_label": "Platy",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "page_no": 1,
+     "intro": {
+      "heading": "XIPHOPHORUS MACULATUS",
+      "care": {
+       "ph": "7.3",
+       "temperature": "25 Degree Celsius",
+       "raw": "pH: 7.3; Temperature: 25 Degree Celsius;"
+      },
+      "description": "Small, hardy, active, peaceful and pretty. Platies are bred very much the same as Guppies; except that they are a little less likely to eat their young. Temperature to breed platies usually range from 65 to 90, but do best at about 74 Degree Celsius.",
+      "full_text": "XIPHOPHORUS MACULATUS pH: 7.3; Temperature: 25 Degree Celsius; Small, hardy, active, peaceful and pretty. Platies are bred very much the same as Guppies; except that they are a little less likely to eat their young. Temperature to breed platies usually range from 65 to 90, but do best at about 74 Degree Celsius."
+     },
+     "image_count": 12
+    },
+    {
+     "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "page_no": 2,
+     "intro": {
+      "heading": "XIPHOPHORUS MACULATUS",
+      "care": {
+       "ph": "7.3",
+       "temperature": "25 Degree Celsius",
+       "raw": "pH: 7.3; Temperature: 25 Degree Celsius;"
+      },
+      "description": "Small, hardy, active, peaceful and pretty. Platies are bred very much the same as Guppies; except that they are a little less likely to eat their young. Temperature to breed platies usually range from 65 to 90, but do best at about 74 Degree Celcious.",
+      "full_text": "XIPHOPHORUS MACULATUS pH: 7.3; Temperature: 25 Degree Celsius; Small, hardy, active, peaceful and pretty. Platies are bred very much the same as Guppies; except that they are a little less likely to eat their young. Temperature to breed platies usually range from 65 to 90, but do best at about 74 Degree Celcious."
+     },
+     "image_count": 9
+    }
+   ],
+   "items": [
+    {
+     "src": "images/freshwater_fishes/platy/005.jpg",
+     "dir": "freshwater_fishes",
+     "file": "005.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/005.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/005.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24637,
+     "sha256": "bcc0c3d7c74acb97790be59aa08d05f866fa17504283c8e6198420b71073b0f9",
+     "last_modified": "Tue, 10 Jul 2012 06:55:30 GMT",
+     "captured_at": "2026-10-02T01:33:04Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/freshwater_fishes/platy/004.jpg",
+     "dir": "freshwater_fishes",
+     "file": "004.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/004.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/004.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26834,
+     "sha256": "4a24234a165514a8353b9f1fa8ed6e86a04ef17388a75604595ab7b252ede2d9",
+     "last_modified": "Tue, 10 Jul 2012 06:55:27 GMT",
+     "captured_at": "2026-10-02T01:33:03Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/freshwater_fishes/platy/008.jpg",
+     "dir": "freshwater_fishes",
+     "file": "008.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/008.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/008.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27628,
+     "sha256": "5bea667f3051557481fbb175b1587bcb4d470c81506286135bd3e900a656ad5e",
+     "last_modified": "Tue, 10 Jul 2012 06:55:32 GMT",
+     "captured_at": "2026-10-02T01:33:04Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/freshwater_fishes/platy/015.jpg",
+     "dir": "freshwater_fishes",
+     "file": "015.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/015.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/015.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27540,
+     "sha256": "9c01254d20a1ff565f5bf1540fe714879575dff35908f4c75c3f9f5a37df406f",
+     "last_modified": "Tue, 10 Jul 2012 06:55:35 GMT",
+     "captured_at": "2026-10-02T01:33:04Z",
+     "page_no": 1,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/freshwater_fishes/platy/022.jpg",
+     "dir": "freshwater_fishes",
+     "file": "022.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/022.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/022.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27676,
+     "sha256": "56b1d026dc9e5fd6200e280ce07c8967adf5fb0a593efbecce8f45c47a0bc9cc",
+     "last_modified": "Tue, 10 Jul 2012 06:55:37 GMT",
+     "captured_at": "2026-10-02T01:33:04Z",
+     "page_no": 1,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/freshwater_fishes/platy/025.jpg",
+     "dir": "freshwater_fishes",
+     "file": "025.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/025.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/025.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26354,
+     "sha256": "f3d7e3199ad59b8d555fcb72f790aead5e621a37acb983ba4713b223a2ddc9c4",
+     "last_modified": "Tue, 10 Jul 2012 06:55:40 GMT",
+     "captured_at": "2026-10-02T01:33:05Z",
+     "page_no": 1,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/freshwater_fishes/platy/031.jpg",
+     "dir": "freshwater_fishes",
+     "file": "031.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/031.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/031.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25867,
+     "sha256": "f75655b16cd26d830ad030fdffc429c0bdd62700076d035ec024af202ddf205e",
+     "last_modified": "Tue, 10 Jul 2012 06:55:42 GMT",
+     "captured_at": "2026-10-02T01:33:05Z",
+     "page_no": 1,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/freshwater_fishes/platy/036.jpg",
+     "dir": "freshwater_fishes",
+     "file": "036.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/036.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/036.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26570,
+     "sha256": "3ebc6861eeb61827ee47b3204fdf37490ffde13a2dc714d7db5b5e3692075507",
+     "last_modified": "Tue, 10 Jul 2012 06:55:45 GMT",
+     "captured_at": "2026-10-02T01:33:05Z",
+     "page_no": 1,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/freshwater_fishes/platy/040.jpg",
+     "dir": "freshwater_fishes",
+     "file": "040.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/040.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/040.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26699,
+     "sha256": "c6dfec340a518f15490f8cd5db782f4b07d2ef20e471e663e6166d44cbc7e846",
+     "last_modified": "Tue, 10 Jul 2012 06:55:48 GMT",
+     "captured_at": "2026-10-02T01:33:05Z",
+     "page_no": 1,
+     "order_on_page": 9
+    },
+    {
+     "src": "images/freshwater_fishes/platy/043.jpg",
+     "dir": "freshwater_fishes",
+     "file": "043.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/043.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/043.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25980,
+     "sha256": "798b96657d060bf7725a5a788a49e68f44fa8fe8eac80ed09edb9116eda7e4ae",
+     "last_modified": "Tue, 10 Jul 2012 06:55:50 GMT",
+     "captured_at": "2026-10-02T01:33:05Z",
+     "page_no": 1,
+     "order_on_page": 10
+    },
+    {
+     "src": "images/freshwater_fishes/platy/045.jpg",
+     "dir": "freshwater_fishes",
+     "file": "045.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/045.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/045.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 23959,
+     "sha256": "3a744046a2b2b18b0723c35b57118755218f3d0ac73beab0a8ba55bc07ce025f",
+     "last_modified": "Tue, 10 Jul 2012 06:55:54 GMT",
+     "captured_at": "2026-10-02T01:33:05Z",
+     "page_no": 1,
+     "order_on_page": 11
+    },
+    {
+     "src": "images/freshwater_fishes/platy/053.jpg",
+     "dir": "freshwater_fishes",
+     "file": "053.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/053.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/053.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27186,
+     "sha256": "b082d722bfaac08dee209a62a1cd9824f4ef29d127a26e93ce02a4e967ac6027",
+     "last_modified": "Tue, 10 Jul 2012 06:55:57 GMT",
+     "captured_at": "2026-10-02T01:33:06Z",
+     "page_no": 1,
+     "order_on_page": 12
+    },
+    {
+     "src": "images/freshwater_fishes/platy/192.jpg",
+     "dir": "freshwater_fishes",
+     "file": "192.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/192.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/192.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25391,
+     "sha256": "20bff26a35e16416f976e71922ea75475063a333d3e712295fc83cd9c05b1265",
+     "last_modified": "Tue, 10 Jul 2012 06:56:19 GMT",
+     "captured_at": "2026-10-02T01:33:07Z",
+     "page_no": 2,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/freshwater_fishes/platy/058.jpg",
+     "dir": "freshwater_fishes",
+     "file": "058.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/058.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/058.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24053,
+     "sha256": "3e05efef2f3727c6a19a044bd781a46cd2a37a977b27cbb86399bb54a86764b2",
+     "last_modified": "Tue, 10 Jul 2012 06:55:59 GMT",
+     "captured_at": "2026-10-02T01:33:06Z",
+     "page_no": 2,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/freshwater_fishes/platy/061.jpg",
+     "dir": "freshwater_fishes",
+     "file": "061.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/061.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/061.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 29633,
+     "sha256": "6aead8d7e20571dd2f396553cfb38413f1123f85fa817fbad3e0c3c44cb2782d",
+     "last_modified": "Tue, 10 Jul 2012 06:56:01 GMT",
+     "captured_at": "2026-10-02T01:33:06Z",
+     "page_no": 2,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/freshwater_fishes/platy/067.jpg",
+     "dir": "freshwater_fishes",
+     "file": "067.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/067.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/067.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27021,
+     "sha256": "2647cbf41daeaa0330e0b9da6c8439e57de0a85d9954abbae653aa0e6da2afa2",
+     "last_modified": "Tue, 10 Jul 2012 06:56:04 GMT",
+     "captured_at": "2026-10-02T01:33:06Z",
+     "page_no": 2,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/freshwater_fishes/platy/079.jpg",
+     "dir": "freshwater_fishes",
+     "file": "079.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/079.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/079.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25947,
+     "sha256": "fa58026990bd70cafba9c1127145b981a07a59eef01a6faced3037db4af34b45",
+     "last_modified": "Tue, 10 Jul 2012 06:56:09 GMT",
+     "captured_at": "2026-10-02T01:33:06Z",
+     "page_no": 2,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/freshwater_fishes/platy/083.jpg",
+     "dir": "freshwater_fishes",
+     "file": "083.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/083.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/083.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25397,
+     "sha256": "b2c55c8077d85ad72a9b20d5d78ebcf4934e53f7baabfd0f63dfecab859c0bb2",
+     "last_modified": "Tue, 10 Jul 2012 06:56:11 GMT",
+     "captured_at": "2026-10-02T01:33:07Z",
+     "page_no": 2,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/freshwater_fishes/platy/089.jpg",
+     "dir": "freshwater_fishes",
+     "file": "089.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/089.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/089.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26155,
+     "sha256": "21a94a0e39a61f936d4b8703752b198aedcb9d9822ecd3c2f77ec1ca244e1109",
+     "last_modified": "Tue, 10 Jul 2012 06:56:13 GMT",
+     "captured_at": "2026-10-02T01:33:07Z",
+     "page_no": 2,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/freshwater_fishes/platy/182.jpg",
+     "dir": "freshwater_fishes",
+     "file": "182.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/182.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/182.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26583,
+     "sha256": "9cb647d0c7ad60c520f6c84aee6ff3c62c35518548b40fa7f2e7b7a9ab99890f",
+     "last_modified": "Tue, 10 Jul 2012 06:56:16 GMT",
+     "captured_at": "2026-10-02T01:33:07Z",
+     "page_no": 2,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/freshwater_fishes/platy/072.jpg",
+     "dir": "freshwater_fishes",
+     "file": "072.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/072.jpg",
+     "local_original": "originals/images/freshwater_fishes/platy/072.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27203,
+     "sha256": "6d5a41ba9752544fd8d93f580e0464940e39ea534ef94328384f4aa3b7bf6067",
+     "last_modified": "Tue, 10 Jul 2012 06:56:06 GMT",
+     "captured_at": "2026-10-02T01:33:06Z",
+     "page_no": 2,
+     "order_on_page": 9
+    }
+   ]
+  },
+  {
+   "id": "freshwater-molly",
+   "section": "freshwater",
+   "source_label": "Molly",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "page_no": 1,
+     "intro": {
+      "heading": "POECILIA LATIPINNA",
+      "care": {
+       "ph": "7-8.5",
+       "temperature": "21-26 Degree Celsius",
+       "raw": "pH: 7-8.5; Temperature: 21-26 Degree Celsius;"
+      },
+      "description": "Hardy and easy to take care of; preferring slightly alkaline water; These fish will readily breed. It is recommended to provide a variety of foods, preferably live.",
+      "full_text": "POECILIA LATIPINNA pH: 7-8.5; Temperature: 21-26 Degree Celsius; Hardy and easy to take care of; preferring slightly alkaline water; These fish will readily breed. It is recommended to provide a variety of foods, preferably live."
+     },
+     "image_count": 9
+    }
+   ],
+   "items": [
+    {
+     "src": "images/freshwater_fishes/molly/122.jpg",
+     "dir": "freshwater_fishes",
+     "file": "122.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/122.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/122.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26881,
+     "sha256": "41a03a91c195b1cfe942aa42fe5d1270ecdc9dd4af81b13af9724559ad4bb156",
+     "last_modified": "Tue, 10 Jul 2012 06:55:00 GMT",
+     "captured_at": "2026-10-02T01:33:02Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/freshwater_fishes/molly/120.jpg",
+     "dir": "freshwater_fishes",
+     "file": "120.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/120.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/120.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27941,
+     "sha256": "aefe801490646f6e97227f496266b6f00c4e01beb446d403f05234957044636a",
+     "last_modified": "Tue, 10 Jul 2012 06:54:58 GMT",
+     "captured_at": "2026-10-02T01:33:02Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/freshwater_fishes/molly/126.jpg",
+     "dir": "freshwater_fishes",
+     "file": "126.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/126.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/126.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 28316,
+     "sha256": "690c78dcd313c7b4142612ccca9e85a29782d3bb6e7973b7bdc9333daab1feee",
+     "last_modified": "Tue, 10 Jul 2012 06:55:02 GMT",
+     "captured_at": "2026-10-02T01:33:02Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/freshwater_fishes/molly/147.jpg",
+     "dir": "freshwater_fishes",
+     "file": "147.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/147.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/147.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31522,
+     "sha256": "77975605c320f1f759d867490ef5d10fba8ebc09d18f82084fc28d683207935b",
+     "last_modified": "Tue, 10 Jul 2012 06:55:18 GMT",
+     "captured_at": "2026-10-02T01:33:03Z",
+     "page_no": 1,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/freshwater_fishes/molly/136.jpg",
+     "dir": "freshwater_fishes",
+     "file": "136.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/136.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/136.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 29285,
+     "sha256": "8bffdb2a9e67f253ecc0202e4710eb3827cd18a2db64a998299c6986b0f91028",
+     "last_modified": "Tue, 10 Jul 2012 06:55:11 GMT",
+     "captured_at": "2026-10-02T01:33:02Z",
+     "page_no": 1,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/freshwater_fishes/molly/141.jpg",
+     "dir": "freshwater_fishes",
+     "file": "141.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/141.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/141.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27867,
+     "sha256": "36f123c5042652e8a7bb1f7c70dc5e7389f00003b9c337fce5ea5aa920b9d735",
+     "last_modified": "Tue, 10 Jul 2012 06:55:13 GMT",
+     "captured_at": "2026-10-02T01:33:02Z",
+     "page_no": 1,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/freshwater_fishes/molly/142.jpg",
+     "dir": "freshwater_fishes",
+     "file": "142.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/142.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/142.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31530,
+     "sha256": "d0d1f0d13283493723a2336410088002ffb029f4ab3a0d9b38537ca30419ab0e",
+     "last_modified": "Tue, 10 Jul 2012 06:55:16 GMT",
+     "captured_at": "2026-10-02T01:33:03Z",
+     "page_no": 1,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/freshwater_fishes/molly/110.jpg",
+     "dir": "freshwater_fishes",
+     "file": "110.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/110.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/110.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 28404,
+     "sha256": "1bd3f937f09d09115b8c742cf801d260c28e9dcbc936d9ca027499573e75d338",
+     "last_modified": "Tue, 10 Jul 2012 06:54:55 GMT",
+     "captured_at": "2026-10-02T01:33:01Z",
+     "page_no": 1,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/freshwater_fishes/molly/130.jpg",
+     "dir": "freshwater_fishes",
+     "file": "130.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/130.jpg",
+     "local_original": "originals/images/freshwater_fishes/molly/130.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 29631,
+     "sha256": "37451f4a2ff62c25ce5b15c52d0839b4b3dfab912e9f9ff394f28c142c9ea282",
+     "last_modified": "Tue, 10 Jul 2012 06:55:05 GMT",
+     "captured_at": "2026-10-02T01:33:02Z",
+     "page_no": 1,
+     "order_on_page": 9
+    }
+   ]
+  },
+  {
+   "id": "freshwater-guppy",
+   "section": "freshwater",
+   "source_label": "Guppy",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "page_no": 1,
+     "intro": {
+      "heading": "POECILIA RETICULATA",
+      "care": {
+       "ph": "7.3",
+       "temperature": "27 Degree Celsius",
+       "raw": "pH: 7.3; Temperature: 27 Degree Celsius;"
+      },
+      "description": "Small, beautiful, peaceful, lively and hardy; there is a myriad of colorful variants that can be collected and easily bred.",
+      "full_text": "POECILIA RETICULATA pH: 7.3; Temperature: 27 Degree Celsius; Small, beautiful, peaceful, lively and hardy; there is a myriad of colorful variants that can be collected and easily bred."
+     },
+     "image_count": 12
+    }
+   ],
+   "items": [
+    {
+     "src": "images/freshwater_fishes/guppy/161.jpg",
+     "dir": "freshwater_fishes",
+     "file": "161.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/161.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/161.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25429,
+     "sha256": "3c333b6c4f146ab558eb9299efbf91bc5f2e8d51e8cb6004103b0e6928e16295",
+     "last_modified": "Tue, 10 Jul 2012 06:54:32 GMT",
+     "captured_at": "2026-10-02T01:33:00Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/169.jpg",
+     "dir": "freshwater_fishes",
+     "file": "169.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/169.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/169.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25937,
+     "sha256": "a806be8e558f6b926dd98fff7b9f9f830bf095caa178a0200e5b472cfc7e4800",
+     "last_modified": "Tue, 10 Jul 2012 06:54:38 GMT",
+     "captured_at": "2026-10-02T01:33:01Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/153.jpg",
+     "dir": "freshwater_fishes",
+     "file": "153.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/153.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/153.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24275,
+     "sha256": "6c70823544b9475845a7bbd8a8d9da429098254ae7f61e30c87a5d7926bc1380",
+     "last_modified": "Tue, 10 Jul 2012 06:54:25 GMT",
+     "captured_at": "2026-10-02T01:33:00Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/157.jpg",
+     "dir": "freshwater_fishes",
+     "file": "157.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/157.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/157.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25114,
+     "sha256": "5add1476e065420c0c3df7c9bd6b3814496f05dcefb20ed7c47067d3a6a443af",
+     "last_modified": "Tue, 10 Jul 2012 06:54:27 GMT",
+     "captured_at": "2026-10-02T01:33:00Z",
+     "page_no": 1,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/166.jpg",
+     "dir": "freshwater_fishes",
+     "file": "166.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/166.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/166.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24534,
+     "sha256": "1b68e4c572c384a00e5c045958bec9c644e4dd0651bc3cf65dc444ee1d23b855",
+     "last_modified": "Tue, 10 Jul 2012 06:54:35 GMT",
+     "captured_at": "2026-10-02T01:33:00Z",
+     "page_no": 1,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/094.jpg",
+     "dir": "freshwater_fishes",
+     "file": "094.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/094.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/094.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25519,
+     "sha256": "219400bf0cc19c20817f3eee81ba566577811639a335fbc5db33682e13113044",
+     "last_modified": "Tue, 10 Jul 2012 06:54:15 GMT",
+     "captured_at": "2026-10-02T01:32:59Z",
+     "page_no": 1,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/102.jpg",
+     "dir": "freshwater_fishes",
+     "file": "102.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/102.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/102.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27141,
+     "sha256": "00ece30e943fd9e36e8fdd956c2acbfe28e83eb595c7b808cb2fe74ff72d9685",
+     "last_modified": "Tue, 10 Jul 2012 06:54:18 GMT",
+     "captured_at": "2026-10-02T01:32:59Z",
+     "page_no": 1,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/12.jpg",
+     "dir": "freshwater_fishes",
+     "file": "12.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/12.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/12.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26223,
+     "sha256": "6d3f6286c45c716fc4b3127c8378ca8a2e82b23b376263cf7cd4ad5f2a1916cc",
+     "last_modified": "Tue, 10 Jul 2012 06:54:22 GMT",
+     "captured_at": "2026-10-02T01:33:00Z",
+     "page_no": 1,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/30.jpg",
+     "dir": "freshwater_fishes",
+     "file": "30.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/30.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/30.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25349,
+     "sha256": "9d0e4fd85e9b6da42d9b7c7e9050f7a808c67eff031dacb4c7b04edb460d417c",
+     "last_modified": "Tue, 10 Jul 2012 06:54:40 GMT",
+     "captured_at": "2026-10-02T01:33:01Z",
+     "page_no": 1,
+     "order_on_page": 9
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/32.jpg",
+     "dir": "freshwater_fishes",
+     "file": "32.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/32.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/32.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25990,
+     "sha256": "4e40a1ec4d10f9c12a08b86b8b7d7a14432f30c674bb7b3f15ef4efd739aec7c",
+     "last_modified": "Tue, 10 Jul 2012 06:54:43 GMT",
+     "captured_at": "2026-10-02T01:33:01Z",
+     "page_no": 1,
+     "order_on_page": 10
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/42.jpg",
+     "dir": "freshwater_fishes",
+     "file": "42.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/42.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/42.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24286,
+     "sha256": "b85ce43291741d2f0c947ed8bdf07ce37b1c639db734b1b60136b3335e3eb6e7",
+     "last_modified": "Tue, 10 Jul 2012 06:54:45 GMT",
+     "captured_at": "2026-10-02T01:33:01Z",
+     "page_no": 1,
+     "order_on_page": 11
+    },
+    {
+     "src": "images/freshwater_fishes/guppy/50.jpg",
+     "dir": "freshwater_fishes",
+     "file": "50.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/50.jpg",
+     "local_original": "originals/images/freshwater_fishes/guppy/50.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24186,
+     "sha256": "9f51ca8075c1491631ad8579f59036419aef44a52b1df90abb305e1e3664eab9",
+     "last_modified": "Tue, 10 Jul 2012 06:54:48 GMT",
+     "captured_at": "2026-10-02T01:33:01Z",
+     "page_no": 1,
+     "order_on_page": 12
+    }
+   ]
+  },
+  {
+   "id": "freshwater-swordtail",
+   "section": "freshwater",
+   "source_label": "Swordtail",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+     "page_no": 1,
+     "intro": {
+      "heading": "XIPHOPHORUS HELERI",
+      "care": {
+       "ph": "7-8",
+       "temperature": "25 Degree Celsius",
+       "raw": "pH: 7-8; Temperature: 25 Degree Celsius;"
+      },
+      "description": "Swordtail is a peaceful species and is desirable in the community tank. Only the males have a sword shaped Caudal fin extension formed from the eight lowermost fin rays. Females are most robust and have a gravid patch.",
+      "full_text": "XIPHOPHORUS HELERI pH: 7-8; Temperature: 25 Degree Celsius; Swordtail is a peaceful species and is desirable in the community tank. Only the males have a sword shaped Caudal fin extension formed from the eight lowermost fin rays. Females are most robust and have a gravid patch."
+     },
+     "image_count": 4
+    }
+   ],
+   "items": [
+    {
+     "src": "images/freshwater_fishes/swordtail/04.jpg",
+     "dir": "freshwater_fishes",
+     "file": "04.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/04.jpg",
+     "local_original": "originals/images/freshwater_fishes/swordtail/04.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 26587,
+     "sha256": "a7597b7d374af3855c60db6707c1164fe0cdf3606612734225363b69be6c31fb",
+     "last_modified": "Tue, 10 Jul 2012 06:56:27 GMT",
+     "captured_at": "2026-10-02T01:33:07Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/freshwater_fishes/swordtail/IMG_0990.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_0990.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/IMG_0990.jpg",
+     "local_original": "originals/images/freshwater_fishes/swordtail/IMG_0990.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24684,
+     "sha256": "122c6a3bd2216ac22ab17e44a5e6dbad3e413bbcd9e0f52d4b8f0833324ddd83",
+     "last_modified": "Tue, 10 Jul 2012 06:56:53 GMT",
+     "captured_at": "2026-10-02T01:33:08Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/freshwater_fishes/swordtail/05.jpg",
+     "dir": "freshwater_fishes",
+     "file": "05.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/05.jpg",
+     "local_original": "originals/images/freshwater_fishes/swordtail/05.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27006,
+     "sha256": "99631823b2a7128ca1be313dc1b136bfcc1eb984fc43517c6a5634116f5be395",
+     "last_modified": "Tue, 10 Jul 2012 06:56:40 GMT",
+     "captured_at": "2026-10-02T01:33:07Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/freshwater_fishes/swordtail/IMG_1005.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_1005.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/IMG_1005.jpg",
+     "local_original": "originals/images/freshwater_fishes/swordtail/IMG_1005.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27026,
+     "sha256": "b6015197167c3f8526b39048533c62b041930f9d740a92daec53c2ab36398454",
+     "last_modified": "Tue, 10 Jul 2012 06:57:06 GMT",
+     "captured_at": "2026-10-02T01:33:08Z",
+     "page_no": 1,
+     "order_on_page": 4
+    }
+   ]
+  },
+  {
+   "id": "freshwater-cichild",
+   "section": "freshwater",
+   "source_label": "Cichild",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "page_no": 1,
+     "intro": {
+      "heading": "CICHILD",
+      "care": null,
+      "description": null,
+      "full_text": "CICHILD"
+     },
+     "image_count": 9
+    }
+   ],
+   "items": [
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_0804.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_0804.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0804.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_0804.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25097,
+     "sha256": "05f3caded5d7c7c1a7627fe231b6a8a1c1c7f45565c6c33144d246d796615230",
+     "last_modified": "Tue, 10 Jul 2012 06:52:11 GMT",
+     "captured_at": "2026-10-02T01:32:58Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_0833.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_0833.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0833.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_0833.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24385,
+     "sha256": "79d829111f7dcadc76a2858db63857f00fb3f1a7e0ad1e1882f7b82abd99c505",
+     "last_modified": "Tue, 10 Jul 2012 06:52:22 GMT",
+     "captured_at": "2026-10-02T01:32:58Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_0949.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_0949.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0949.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_0949.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 27208,
+     "sha256": "4e31a9207409d0aee4afc6905efd6d08a0a1be17579897467e3f0cc5dfa60693",
+     "last_modified": "Tue, 10 Jul 2012 06:52:34 GMT",
+     "captured_at": "2026-10-02T01:32:58Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_0982.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_0982.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0982.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_0982.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24993,
+     "sha256": "c6c7ff9478de21b54bbac0e334cbe0c73def080694b0e2a9a0313ed067b95a7f",
+     "last_modified": "Tue, 10 Jul 2012 06:52:46 GMT",
+     "captured_at": "2026-10-02T01:32:58Z",
+     "page_no": 1,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_1429.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_1429.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1429.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_1429.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 23559,
+     "sha256": "3abd5f0343b71c1e0448854592cd783dea4ecfd6eff31c3106fc13d702358a73",
+     "last_modified": "Tue, 10 Jul 2012 06:52:57 GMT",
+     "captured_at": "2026-10-02T01:32:58Z",
+     "page_no": 1,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_1448.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_1448.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1448.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_1448.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 25520,
+     "sha256": "30bc617a52bc763e0ce51f9ecd0b660953ccaed233002522ed9db1c0f459def4",
+     "last_modified": "Tue, 10 Jul 2012 06:53:08 GMT",
+     "captured_at": "2026-10-02T01:32:59Z",
+     "page_no": 1,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_1464.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_1464.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1464.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_1464.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 24138,
+     "sha256": "f0ce4f3c662ef4cf022d7227c1f4faac4ce18ed9e677a32542f4b9b91a245a4c",
+     "last_modified": "Tue, 10 Jul 2012 06:53:23 GMT",
+     "captured_at": "2026-10-02T01:32:59Z",
+     "page_no": 1,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_1483.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_1483.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1483.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_1483.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 23199,
+     "sha256": "e44f107ca2b419ddc19dd3ac253f9ac44e5e8149a56edb66d86d5a75ea60ab7c",
+     "last_modified": "Tue, 10 Jul 2012 06:53:34 GMT",
+     "captured_at": "2026-10-02T01:32:59Z",
+     "page_no": 1,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/freshwater_fishes/cichild/IMG_1495.jpg",
+     "dir": "freshwater_fishes",
+     "file": "IMG_1495.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1495.jpg",
+     "local_original": "originals/images/freshwater_fishes/cichild/IMG_1495.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 23688,
+     "sha256": "beccf5f9c9c4dcdd7b55d205c0067111faa525a1fd89bd69ddf6bfb04206ba18",
+     "last_modified": "Tue, 10 Jul 2012 06:53:47 GMT",
+     "captured_at": "2026-10-02T01:32:59Z",
+     "page_no": 1,
+     "order_on_page": 9
+    }
+   ]
+  },
+  {
+   "id": "marine-fishes",
+   "section": "marine",
+   "source_label": "Marine fishes",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "page_no": 1,
+     "intro": null,
+     "image_count": 9
+    },
+    {
+     "url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "page_no": 2,
+     "intro": null,
+     "image_count": 6
+    }
+   ],
+   "items": [
+    {
+     "src": "images/marine_fishes/01.jpg",
+     "dir": "marine_fishes",
+     "file": "01.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/01.jpg",
+     "local_original": "originals/images/marine_fishes/01.jpg",
+     "width": 154,
+     "height": 105,
+     "bytes": 28412,
+     "sha256": "bef4fea0c99e0bb4486b0b8a8a844ba139ead0a6a9fdaa0bf7179941688edf84",
+     "last_modified": "Tue, 10 Jul 2012 06:58:15 GMT",
+     "captured_at": "2026-10-02T01:33:09Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/marine_fishes/02.jpg",
+     "dir": "marine_fishes",
+     "file": "02.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/02.jpg",
+     "local_original": "originals/images/marine_fishes/02.jpg",
+     "width": 154,
+     "height": 100,
+     "bytes": 26381,
+     "sha256": "e2223a2f9f6677e1d246b3250671f5784b67d085e71b5ed085e72d8da76b3458",
+     "last_modified": "Tue, 10 Jul 2012 06:58:17 GMT",
+     "captured_at": "2026-10-02T01:33:09Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/marine_fishes/03.jpg",
+     "dir": "marine_fishes",
+     "file": "03.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/03.jpg",
+     "local_original": "originals/images/marine_fishes/03.jpg",
+     "width": 154,
+     "height": 107,
+     "bytes": 25187,
+     "sha256": "971d79c013c1a323b1cdaae3e3da4372be79039921bed25d85a4adb582bdd558",
+     "last_modified": "Tue, 10 Jul 2012 06:58:20 GMT",
+     "captured_at": "2026-10-02T01:33:09Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/marine_fishes/04.jpg",
+     "dir": "marine_fishes",
+     "file": "04.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/04.jpg",
+     "local_original": "originals/images/marine_fishes/04.jpg",
+     "width": 154,
+     "height": 162,
+     "bytes": 39753,
+     "sha256": "ad2528b14223ef3d75f93ae8f5cb188d0dbce7e4521b1e02dda4479c85d13612",
+     "last_modified": "Tue, 10 Jul 2012 06:58:22 GMT",
+     "captured_at": "2026-10-02T01:33:09Z",
+     "page_no": 1,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/marine_fishes/05.jpg",
+     "dir": "marine_fishes",
+     "file": "05.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/05.jpg",
+     "local_original": "originals/images/marine_fishes/05.jpg",
+     "width": 154,
+     "height": 104,
+     "bytes": 35426,
+     "sha256": "793d7215333150ca310bd9cd329dc108f8bdd405247961aacdb503704d086933",
+     "last_modified": "Tue, 10 Jul 2012 06:58:25 GMT",
+     "captured_at": "2026-10-02T01:33:09Z",
+     "page_no": 1,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/marine_fishes/07.jpg",
+     "dir": "marine_fishes",
+     "file": "07.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/07.jpg",
+     "local_original": "originals/images/marine_fishes/07.jpg",
+     "width": 154,
+     "height": 175,
+     "bytes": 55929,
+     "sha256": "6d32406d743158d1ca38b1f1897f0827ca9d5d413a14765137617b2d46cfff18",
+     "last_modified": "Tue, 10 Jul 2012 06:58:31 GMT",
+     "captured_at": "2026-10-02T01:33:10Z",
+     "page_no": 1,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/marine_fishes/06.jpg",
+     "dir": "marine_fishes",
+     "file": "06.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/06.jpg",
+     "local_original": "originals/images/marine_fishes/06.jpg",
+     "width": 154,
+     "height": 108,
+     "bytes": 28301,
+     "sha256": "835a462794d7dacda712400cc0f0c2182ce2a8bfb6c97bbefe856efb3ca7db84",
+     "last_modified": "Tue, 10 Jul 2012 06:58:28 GMT",
+     "captured_at": "2026-10-02T01:33:10Z",
+     "page_no": 1,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/marine_fishes/08.jpg",
+     "dir": "marine_fishes",
+     "file": "08.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/08.jpg",
+     "local_original": "originals/images/marine_fishes/08.jpg",
+     "width": 154,
+     "height": 104,
+     "bytes": 34352,
+     "sha256": "6f7b30d540b41c89b9a69abfc3583f81424f9ae7e01f51163d61c6d8a95ed230",
+     "last_modified": "Tue, 10 Jul 2012 06:58:34 GMT",
+     "captured_at": "2026-10-02T01:33:10Z",
+     "page_no": 1,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/marine_fishes/09.jpg",
+     "dir": "marine_fishes",
+     "file": "09.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/09.jpg",
+     "local_original": "originals/images/marine_fishes/09.jpg",
+     "width": 154,
+     "height": 87,
+     "bytes": 27343,
+     "sha256": "d972cbf2cd6b5913092dcf8ba72f896db189407c0f7e305c3b3fb35ee0fa20bb",
+     "last_modified": "Tue, 10 Jul 2012 06:58:36 GMT",
+     "captured_at": "2026-10-02T01:33:10Z",
+     "page_no": 1,
+     "order_on_page": 9
+    },
+    {
+     "src": "images/marine_fishes/10.jpg",
+     "dir": "marine_fishes",
+     "file": "10.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/10.jpg",
+     "local_original": "originals/images/marine_fishes/10.jpg",
+     "width": 154,
+     "height": 107,
+     "bytes": 22311,
+     "sha256": "8114b42ef1fd57f39929066f5f7eab2eb96e19c0ee76a70de55f55fd4fd77646",
+     "last_modified": "Tue, 10 Jul 2012 06:58:39 GMT",
+     "captured_at": "2026-10-02T01:33:10Z",
+     "page_no": 2,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/marine_fishes/11.jpg",
+     "dir": "marine_fishes",
+     "file": "11.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/11.jpg",
+     "local_original": "originals/images/marine_fishes/11.jpg",
+     "width": 154,
+     "height": 104,
+     "bytes": 25500,
+     "sha256": "209ca407bb947a3ddd86847dbd4f412d16829a90a7e465734785fa3ec8f75265",
+     "last_modified": "Tue, 10 Jul 2012 06:58:44 GMT",
+     "captured_at": "2026-10-02T01:33:10Z",
+     "page_no": 2,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/marine_fishes/12.jpg",
+     "dir": "marine_fishes",
+     "file": "12.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/12.jpg",
+     "local_original": "originals/images/marine_fishes/12.jpg",
+     "width": 154,
+     "height": 134,
+     "bytes": 41519,
+     "sha256": "e18fc47094f06313e225b0ae1f6795f64a80ee53263d807e718304bd2f234bed",
+     "last_modified": "Tue, 10 Jul 2012 06:58:47 GMT",
+     "captured_at": "2026-10-02T01:33:11Z",
+     "page_no": 2,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/marine_fishes/13.jpg",
+     "dir": "marine_fishes",
+     "file": "13.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/13.jpg",
+     "local_original": "originals/images/marine_fishes/13.jpg",
+     "width": 154,
+     "height": 130,
+     "bytes": 32228,
+     "sha256": "67fcc1f6321774ab53b3abb369e80c988a700bb4c51b85f33f33acef5d6d9e3f",
+     "last_modified": "Tue, 10 Jul 2012 06:58:49 GMT",
+     "captured_at": "2026-10-02T01:33:11Z",
+     "page_no": 2,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/marine_fishes/14.jpg",
+     "dir": "marine_fishes",
+     "file": "14.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/14.jpg",
+     "local_original": "originals/images/marine_fishes/14.jpg",
+     "width": 154,
+     "height": 110,
+     "bytes": 28915,
+     "sha256": "332ab7e794e4d56fa335b0861c733106f0c3f9ee27531fa07fd9382e85c1be10",
+     "last_modified": "Tue, 10 Jul 2012 06:58:52 GMT",
+     "captured_at": "2026-10-02T01:33:11Z",
+     "page_no": 2,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/marine_fishes/15.jpg",
+     "dir": "marine_fishes",
+     "file": "15.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/marine_fishes/15.jpg",
+     "local_original": "originals/images/marine_fishes/15.jpg",
+     "width": 154,
+     "height": 105,
+     "bytes": 25590,
+     "sha256": "7efb0ca0c24615f7ed50773c2ad9fe3e710f79ccbfdfcce05ae646f2f0b506c9",
+     "last_modified": "Tue, 10 Jul 2012 06:58:54 GMT",
+     "captured_at": "2026-10-02T01:33:11Z",
+     "page_no": 2,
+     "order_on_page": 6
+    }
+   ]
+  },
+  {
+   "id": "aquatic-plants",
+   "section": "plants",
+   "source_label": "Aquatic plants",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "page_no": 1,
+     "intro": null,
+     "image_count": 9
+    },
+    {
+     "url": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "page_no": 2,
+     "intro": null,
+     "image_count": 9
+    },
+    {
+     "url": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "page_no": 3,
+     "intro": null,
+     "image_count": 6
+    }
+   ],
+   "items": [
+    {
+     "src": "images/aquatic_plants/21.jpg",
+     "dir": "aquatic_plants",
+     "file": "21.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/21.jpg",
+     "local_original": "originals/images/aquatic_plants/21.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 30415,
+     "sha256": "57a73d06faaed9d716fe8ac09d4e29d4ffecbb4015f721177785c59f83cac499",
+     "last_modified": "Tue, 10 Jul 2012 06:50:13 GMT",
+     "captured_at": "2026-10-02T01:32:51Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/aquatic_plants/24.jpg",
+     "dir": "aquatic_plants",
+     "file": "24.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/24.jpg",
+     "local_original": "originals/images/aquatic_plants/24.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 29631,
+     "sha256": "d4d30ee2bf15bcb75a4297825721e6299f427be55c098185f6726ffd2af04d6d",
+     "last_modified": "Tue, 10 Jul 2012 06:50:20 GMT",
+     "captured_at": "2026-10-02T01:32:52Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/aquatic_plants/22.jpg",
+     "dir": "aquatic_plants",
+     "file": "22.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/22.jpg",
+     "local_original": "originals/images/aquatic_plants/22.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32625,
+     "sha256": "19cf082723524cd18188b6f187d87dfb7fc7aaf9e8978c631e62507332e90972",
+     "last_modified": "Tue, 10 Jul 2012 06:50:15 GMT",
+     "captured_at": "2026-10-02T01:32:51Z",
+     "page_no": 1,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/aquatic_plants/20.jpg",
+     "dir": "aquatic_plants",
+     "file": "20.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/20.jpg",
+     "local_original": "originals/images/aquatic_plants/20.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 28910,
+     "sha256": "859fc73015d3369bf27a7682085ac5f66a5f0ae7f486df91f885990ae0393bde",
+     "last_modified": "Tue, 10 Jul 2012 06:50:10 GMT",
+     "captured_at": "2026-10-02T01:32:51Z",
+     "page_no": 1,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/aquatic_plants/13.jpg",
+     "dir": "aquatic_plants",
+     "file": "13.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/13.jpg",
+     "local_original": "originals/images/aquatic_plants/13.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31369,
+     "sha256": "a7bdebef0e53547b9eaa10621f70e34719fbe464c888a1db865437bde28eb1cc",
+     "last_modified": "Tue, 10 Jul 2012 06:50:00 GMT",
+     "captured_at": "2026-10-02T01:32:51Z",
+     "page_no": 1,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/aquatic_plants/11.jpg",
+     "dir": "aquatic_plants",
+     "file": "11.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/11.jpg",
+     "local_original": "originals/images/aquatic_plants/11.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31722,
+     "sha256": "9b9b156cc93021b858f26708708e44a08a7fd1951078d34151ce46b0e6e6fbbb",
+     "last_modified": "Tue, 10 Jul 2012 06:49:57 GMT",
+     "captured_at": "2026-10-02T01:32:50Z",
+     "page_no": 1,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/aquatic_plants/10.jpg",
+     "dir": "aquatic_plants",
+     "file": "10.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/10.jpg",
+     "local_original": "originals/images/aquatic_plants/10.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 36109,
+     "sha256": "820b9ae800205a9eb3aca3b0beba644c636e951947b6151ad543056b9632a9f6",
+     "last_modified": "Tue, 10 Jul 2012 06:49:55 GMT",
+     "captured_at": "2026-10-02T01:32:50Z",
+     "page_no": 1,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/aquatic_plants/7.jpg",
+     "dir": "aquatic_plants",
+     "file": "7.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/7.jpg",
+     "local_original": "originals/images/aquatic_plants/7.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 30202,
+     "sha256": "0842239344ea57944d8095d730e9493b316047b384c610c160232b93664b7542",
+     "last_modified": "Tue, 10 Jul 2012 06:51:02 GMT",
+     "captured_at": "2026-10-02T01:32:55Z",
+     "page_no": 1,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/aquatic_plants/6.jpg",
+     "dir": "aquatic_plants",
+     "file": "6.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/6.jpg",
+     "local_original": "originals/images/aquatic_plants/6.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 29908,
+     "sha256": "954a705f19a2ded3f20f041cbb4d6ef57c29532b05a48464d568e7bd6be4939d",
+     "last_modified": "Tue, 10 Jul 2012 06:51:00 GMT",
+     "captured_at": "2026-10-02T01:32:54Z",
+     "page_no": 1,
+     "order_on_page": 9
+    },
+    {
+     "src": "images/aquatic_plants/5.jpg",
+     "dir": "aquatic_plants",
+     "file": "5.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/5.jpg",
+     "local_original": "originals/images/aquatic_plants/5.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 30166,
+     "sha256": "0ded9329e1c24eb571062a85738b14d7f3843467eb002c17636b3986c73ff5be",
+     "last_modified": "Tue, 10 Jul 2012 06:50:57 GMT",
+     "captured_at": "2026-10-02T01:32:54Z",
+     "page_no": 2,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/aquatic_plants/4.jpg",
+     "dir": "aquatic_plants",
+     "file": "4.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/4.jpg",
+     "local_original": "originals/images/aquatic_plants/4.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32539,
+     "sha256": "50f07341b79104e121cb5af1875523248cefc7445503e90116a3a596fab051fd",
+     "last_modified": "Tue, 10 Jul 2012 06:50:54 GMT",
+     "captured_at": "2026-10-02T01:32:54Z",
+     "page_no": 2,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/aquatic_plants/3.jpg",
+     "dir": "aquatic_plants",
+     "file": "3.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/3.jpg",
+     "local_original": "originals/images/aquatic_plants/3.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32694,
+     "sha256": "7c35e0b90c18d1e9d450064d53a16f077b555b145de79196c1adb1d56a11be5b",
+     "last_modified": "Tue, 10 Jul 2012 06:50:33 GMT",
+     "captured_at": "2026-10-02T01:32:53Z",
+     "page_no": 2,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/aquatic_plants/2.jpg",
+     "dir": "aquatic_plants",
+     "file": "2.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/2.jpg",
+     "local_original": "originals/images/aquatic_plants/2.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 29676,
+     "sha256": "39b0b47df71ad90f2054da4653c8646b86f8228ee189aa96b777b4a9ab05e271",
+     "last_modified": "Tue, 10 Jul 2012 06:50:08 GMT",
+     "captured_at": "2026-10-02T01:32:51Z",
+     "page_no": 2,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/aquatic_plants/1.jpg",
+     "dir": "aquatic_plants",
+     "file": "1.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/1.jpg",
+     "local_original": "originals/images/aquatic_plants/1.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31735,
+     "sha256": "360fd3284a01652651784b058293ab79288c98b9920a6a32c6750f17ac97113e",
+     "last_modified": "Tue, 10 Jul 2012 06:49:53 GMT",
+     "captured_at": "2026-10-02T01:32:50Z",
+     "page_no": 2,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/aquatic_plants/35.jpg",
+     "dir": "aquatic_plants",
+     "file": "35.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/35.jpg",
+     "local_original": "originals/images/aquatic_plants/35.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32852,
+     "sha256": "9cf9c709b89d550e549aae7ea2ed6dc890cee086e6260496f622feec62234976",
+     "last_modified": "Tue, 10 Jul 2012 06:50:49 GMT",
+     "captured_at": "2026-10-02T01:32:54Z",
+     "page_no": 2,
+     "order_on_page": 6
+    },
+    {
+     "src": "images/aquatic_plants/34.jpg",
+     "dir": "aquatic_plants",
+     "file": "34.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/34.jpg",
+     "local_original": "originals/images/aquatic_plants/34.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31721,
+     "sha256": "4f12da245046e4c4069106b07df05565515439cede23aae42554109a659e3237",
+     "last_modified": "Tue, 10 Jul 2012 06:50:47 GMT",
+     "captured_at": "2026-10-02T01:32:54Z",
+     "page_no": 2,
+     "order_on_page": 7
+    },
+    {
+     "src": "images/aquatic_plants/33.jpg",
+     "dir": "aquatic_plants",
+     "file": "33.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/33.jpg",
+     "local_original": "originals/images/aquatic_plants/33.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 30307,
+     "sha256": "4cdf77bea52b92d17196f0302a21f366528d722eaba004284119eef2271ba2b8",
+     "last_modified": "Tue, 10 Jul 2012 06:50:44 GMT",
+     "captured_at": "2026-10-02T01:32:53Z",
+     "page_no": 2,
+     "order_on_page": 8
+    },
+    {
+     "src": "images/aquatic_plants/32.jpg",
+     "dir": "aquatic_plants",
+     "file": "32.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/32.jpg",
+     "local_original": "originals/images/aquatic_plants/32.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32095,
+     "sha256": "fefa27fb9a88da7b8b25debfc723a0d3108583ba91649907f2315fd5bf983ef3",
+     "last_modified": "Tue, 10 Jul 2012 06:50:41 GMT",
+     "captured_at": "2026-10-02T01:32:53Z",
+     "page_no": 2,
+     "order_on_page": 9
+    },
+    {
+     "src": "images/aquatic_plants/27.jpg",
+     "dir": "aquatic_plants",
+     "file": "27.jpg",
+     "display_width_attr": "87",
+     "display_height_attr": "130",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/27.jpg",
+     "local_original": "originals/images/aquatic_plants/27.jpg",
+     "width": 87,
+     "height": 130,
+     "bytes": 26591,
+     "sha256": "5a99f6a8c9441c521ea2ea0bb35bff728d481fd3103aa06cdd7fb54a04176fe1",
+     "last_modified": "Tue, 10 Jul 2012 06:50:25 GMT",
+     "captured_at": "2026-10-02T01:32:52Z",
+     "page_no": 3,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/aquatic_plants/26.jpg",
+     "dir": "aquatic_plants",
+     "file": "26.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/26.jpg",
+     "local_original": "originals/images/aquatic_plants/26.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32166,
+     "sha256": "6511b54a20c43c19ab1701a28a34879beeb09f066ecc7cbba18cf4e9e4362495",
+     "last_modified": "Tue, 10 Jul 2012 06:50:23 GMT",
+     "captured_at": "2026-10-02T01:32:52Z",
+     "page_no": 3,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/aquatic_plants/14.jpg",
+     "dir": "aquatic_plants",
+     "file": "14.jpg",
+     "display_width_attr": "87",
+     "display_height_attr": "130",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/14.jpg",
+     "local_original": "originals/images/aquatic_plants/14.jpg",
+     "width": 87,
+     "height": 130,
+     "bytes": 28008,
+     "sha256": "65fda762af9b8712fcbc6d990a3fa62ff44a23297707336d8644dceb8ad4ff1c",
+     "last_modified": "Tue, 10 Jul 2012 06:50:02 GMT",
+     "captured_at": "2026-10-02T01:32:51Z",
+     "page_no": 3,
+     "order_on_page": 3
+    },
+    {
+     "src": "images/aquatic_plants/8.jpg",
+     "dir": "aquatic_plants",
+     "file": "8.jpg",
+     "display_width_attr": "87",
+     "display_height_attr": "130",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/8.jpg",
+     "local_original": "originals/images/aquatic_plants/8.jpg",
+     "width": 87,
+     "height": 130,
+     "bytes": 26057,
+     "sha256": "674873aaf0e353d9830bcdeef91544f6b63de5ddb12e6e6d357b081faa68bb38",
+     "last_modified": "Tue, 10 Jul 2012 06:51:05 GMT",
+     "captured_at": "2026-10-02T01:32:55Z",
+     "page_no": 3,
+     "order_on_page": 4
+    },
+    {
+     "src": "images/aquatic_plants/31.jpg",
+     "dir": "aquatic_plants",
+     "file": "31.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/31.jpg",
+     "local_original": "originals/images/aquatic_plants/31.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 31617,
+     "sha256": "57df21fe32a22c122c4506c7c3926a7c3f4e37ebce2e0f6f39644b369376f52e",
+     "last_modified": "Tue, 10 Jul 2012 06:50:38 GMT",
+     "captured_at": "2026-10-02T01:32:53Z",
+     "page_no": 3,
+     "order_on_page": 5
+    },
+    {
+     "src": "images/aquatic_plants/9.jpg",
+     "dir": "aquatic_plants",
+     "file": "9.jpg",
+     "display_width_attr": "87",
+     "display_height_attr": "130",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/9.jpg",
+     "local_original": "originals/images/aquatic_plants/9.jpg",
+     "width": 87,
+     "height": 130,
+     "bytes": 25790,
+     "sha256": "76d33d55c83272a1014f4230918146f17c1e567245ae748f7686e0415b2b2caf",
+     "last_modified": "Tue, 10 Jul 2012 06:51:07 GMT",
+     "captured_at": "2026-10-02T01:32:55Z",
+     "page_no": 3,
+     "order_on_page": 6
+    }
+   ]
+  },
+  {
+   "id": "plants-on-driftwood",
+   "section": "plants-driftwood",
+   "source_label": "Aquatic plants on driftwood",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+     "page_no": 1,
+     "intro": null,
+     "image_count": 3
+    }
+   ],
+   "items": [
+    {
+     "src": "images/aquatic_plants/30.jpg",
+     "dir": "aquatic_plants",
+     "file": "30.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/30.jpg",
+     "local_original": "originals/images/aquatic_plants/30.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 37106,
+     "sha256": "89d5193a4573f3dbecd265f956fd45cc3af9f7784d2463eaa72056e33029e9f5",
+     "last_modified": "Tue, 10 Jul 2012 06:50:36 GMT",
+     "captured_at": "2026-10-02T01:32:53Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/aquatic_plants/29.jpg",
+     "dir": "aquatic_plants",
+     "file": "29.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/29.jpg",
+     "local_original": "originals/images/aquatic_plants/29.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 32231,
+     "sha256": "1af28bb01ceaca718b85ff5080fcd6d893578249a51bcae7381016e2403cb5ab",
+     "last_modified": "Tue, 10 Jul 2012 06:50:30 GMT",
+     "captured_at": "2026-10-02T01:32:52Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/aquatic_plants/28.jpg",
+     "dir": "aquatic_plants",
+     "file": "28.jpg",
+     "display_width_attr": "165",
+     "display_height_attr": "110",
+     "source_page": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/aquatic_plants/28.jpg",
+     "local_original": "originals/images/aquatic_plants/28.jpg",
+     "width": 165,
+     "height": 110,
+     "bytes": 28220,
+     "sha256": "5946be30563b7a539cd487233017436a223fa6598449aa4ee45f7272fa068773",
+     "last_modified": "Tue, 10 Jul 2012 06:50:28 GMT",
+     "captured_at": "2026-10-02T01:32:52Z",
+     "page_no": 1,
+     "order_on_page": 3
+    }
+   ]
+  },
+  {
+   "id": "driftwood",
+   "section": "driftwood",
+   "source_label": "Driftwood",
+   "source_pages": [
+    {
+     "url": "https://www.sanyoaqm.com.sg/driftwood.html",
+     "page_no": 1,
+     "intro": null,
+     "image_count": 3
+    }
+   ],
+   "items": [
+    {
+     "src": "images/driftwood/7.jpg",
+     "dir": "driftwood",
+     "file": "7.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/driftwood/7.jpg",
+     "local_original": "originals/images/driftwood/7.jpg",
+     "width": 167,
+     "height": 112,
+     "bytes": 27128,
+     "sha256": "6ce303ad0aecda7a8486479e5c90615d1b7c2ae7fb564b94392d5c1689be9928",
+     "last_modified": "Tue, 10 Jul 2012 06:51:45 GMT",
+     "captured_at": "2026-10-02T01:32:57Z",
+     "page_no": 1,
+     "order_on_page": 1
+    },
+    {
+     "src": "images/driftwood/8.jpg",
+     "dir": "driftwood",
+     "file": "8.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/driftwood/8.jpg",
+     "local_original": "originals/images/driftwood/8.jpg",
+     "width": 167,
+     "height": 112,
+     "bytes": 27623,
+     "sha256": "e5cdd08188cd3e2ec82648e79469fc539b164edd1dddeb67e7a31fa79caaac46",
+     "last_modified": "Tue, 10 Jul 2012 06:51:48 GMT",
+     "captured_at": "2026-10-02T01:32:57Z",
+     "page_no": 1,
+     "order_on_page": 2
+    },
+    {
+     "src": "images/driftwood/9.jpg",
+     "dir": "driftwood",
+     "file": "9.jpg",
+     "display_width_attr": null,
+     "display_height_attr": null,
+     "source_page": "https://www.sanyoaqm.com.sg/driftwood.html",
+     "original_url": "https://www.sanyoaqm.com.sg/images/driftwood/9.jpg",
+     "local_original": "originals/images/driftwood/9.jpg",
+     "width": 167,
+     "height": 112,
+     "bytes": 25997,
+     "sha256": "92fcd82a54f4b9ce99e03d2cc9c8268a0db34d99f57b8c9b183f1d4ee95e9971",
+     "last_modified": "Tue, 10 Jul 2012 06:51:50 GMT",
+     "captured_at": "2026-10-02T01:32:57Z",
+     "page_no": 1,
+     "order_on_page": 3
+    }
+   ]
+  }
+ ],
+ "home_images": [
+  {
+   "role": "home banner tile",
+   "original_url": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_01.jpg",
+   "local_original": "originals/images/images/homepic-31-1-2007_01.jpg",
+   "width": 372,
+   "height": 118,
+   "bytes": 18505,
+   "sha256": "27c9736d5bdd8ffe28d6d6e2c9c28c708598af44dfdeb6a15988179634966393",
+   "last_modified": "Tue, 10 Jul 2012 06:57:38 GMT",
+   "captured_at": "2026-10-02T01:33:08Z",
+   "file": "homepic-31-1-2007_01.jpg"
+  },
+  {
+   "role": "home banner tile",
+   "original_url": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_02.jpg",
+   "local_original": "originals/images/images/homepic-31-1-2007_02.jpg",
+   "width": 371,
+   "height": 118,
+   "bytes": 16338,
+   "sha256": "4fbd8c58e2545b3d46b856c9a54a907ee75957e9cdf4716b64e971e6d4d2f5c7",
+   "last_modified": "Tue, 10 Jul 2012 06:57:41 GMT",
+   "captured_at": "2026-10-02T01:33:08Z",
+   "file": "homepic-31-1-2007_02.jpg"
+  },
+  {
+   "role": "home banner tile",
+   "original_url": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_03.jpg",
+   "local_original": "originals/images/images/homepic-31-1-2007_03.jpg",
+   "width": 372,
+   "height": 117,
+   "bytes": 24156,
+   "sha256": "a3bb8eb217d2313eaef8e129e3facdf2317a1d881d67e279251395bbfc5a30cd",
+   "last_modified": "Tue, 10 Jul 2012 06:57:43 GMT",
+   "captured_at": "2026-10-02T01:33:08Z",
+   "file": "homepic-31-1-2007_03.jpg"
+  },
+  {
+   "role": "home banner tile",
+   "original_url": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_04.jpg",
+   "local_original": "originals/images/images/homepic-31-1-2007_04.jpg",
+   "width": 371,
+   "height": 117,
+   "bytes": 14211,
+   "sha256": "0d0f11608e2b471c5780374f9e44fc950530f70d8db2410187a5ac08e7216c00",
+   "last_modified": "Tue, 10 Jul 2012 06:57:45 GMT",
+   "captured_at": "2026-10-02T01:33:08Z",
+   "file": "homepic-31-1-2007_04.jpg"
+  }
+ ],
+ "about_orgs": [
+  {
+   "text": "Ornamental Fish International (OFI)",
+   "href": "http://www.ofish.org"
+  },
+  {
+   "text": "Singapore Aquarium Fish Exporters' Association (SAFEA)",
+   "href": "http://www.safea.org"
+  },
+  {
+   "text": "Agri-food & Veterinary Authority of Singapore (AVA)",
+   "href": "http://www.ava.gov.sg"
+  }
+ ],
+ "about_images": [
+  {
+   "role": "company exterior photo (profile)",
+   "file": "company_photo.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/company_photo.jpg",
+   "local_original": "originals/images/company_photo.jpg",
+   "width": 178,
+   "height": 120,
+   "bytes": 10961,
+   "sha256": "adb6d4962fe58240e32fedc0b75cd948bf783a08e99ad8e9aaf809d8533940a8",
+   "last_modified": "Tue, 10 Jul 2012 06:51:40 GMT",
+   "captured_at": "2026-10-02T01:32:57Z"
+  },
+  {
+   "role": "membership logo strip",
+   "file": "aboutus_member.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/aboutus_member.jpg",
+   "local_original": "originals/images/aboutus_member.jpg",
+   "width": 403,
+   "height": 50,
+   "bytes": 22456,
+   "sha256": "0db3968d4923ad3acb922d257867582dfe4b0e41d73115cc3e4ff3befb9f1224",
+   "last_modified": "Tue, 10 Jul 2012 06:49:20 GMT",
+   "captured_at": "2026-10-02T01:32:50Z"
+  },
+  {
+   "role": "quality section photo 1",
+   "file": "about_us1_11.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/about_us1_11.jpg",
+   "local_original": "originals/images/about_us1_11.jpg",
+   "width": 178,
+   "height": 120,
+   "bytes": 28455,
+   "sha256": "3168a63e238df87be0bd62f8b4d5a0c5875a353b8308b3cff2943c051aec89cf",
+   "last_modified": "Tue, 10 Jul 2012 06:49:29 GMT",
+   "captured_at": "2026-10-02T01:32:49Z"
+  },
+  {
+   "role": "facility photo 2",
+   "file": "about_us2_1.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/about_us2_1.jpg",
+   "local_original": "originals/images/about_us2_1.jpg",
+   "width": 169,
+   "height": 114,
+   "bytes": 28537,
+   "sha256": "b33fbfe39ed4d15721bdd3ad72ec7eae5bb6aeded3b4032cf2ac905cd439632c",
+   "last_modified": "Tue, 10 Jul 2012 06:49:34 GMT",
+   "captured_at": "2026-10-02T01:32:49Z"
+  },
+  {
+   "role": "facility photo 3",
+   "file": "about_us3_1.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/about_us3_1.jpg",
+   "local_original": "originals/images/about_us3_1.jpg",
+   "width": 169,
+   "height": 114,
+   "bytes": 30527,
+   "sha256": "1dabfc1d2819b370c3fc0d2a8966bb8bf53999927fbe176b63ce5f079036b1cb",
+   "last_modified": "Tue, 10 Jul 2012 06:49:38 GMT",
+   "captured_at": "2026-10-02T01:32:49Z"
+  },
+  {
+   "role": "facility photo 4",
+   "file": "about_us4_1.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/about_us4_1.jpg",
+   "local_original": "originals/images/about_us4_1.jpg",
+   "width": 163,
+   "height": 110,
+   "bytes": 30340,
+   "sha256": "b7935ad68b3dedfc559f7cf1ed485ab83801d872a19196e643fac487f258fe39",
+   "last_modified": "Tue, 10 Jul 2012 06:49:41 GMT",
+   "captured_at": "2026-10-02T01:32:49Z"
+  },
+  {
+   "role": "facility photo 5",
+   "file": "about_us5_1.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/about_us5_1.jpg",
+   "local_original": "originals/images/about_us5_1.jpg",
+   "width": 169,
+   "height": 114,
+   "bytes": 30864,
+   "sha256": "b5065e0784ad8bb7f1b2dee3cfbc63be5c4d7bbce7025001f98ba3aeb51c5983",
+   "last_modified": "Tue, 10 Jul 2012 06:49:46 GMT",
+   "captured_at": "2026-10-02T01:32:50Z"
+  }
+ ],
+ "contact_lines": [
+  "SANYO AQUARIUM (PTE) LTD",
+  "3 Chencharu Link",
+  "Singapore 768144",
+  "Tel: +65 6481 3111",
+  "Fax: +65 6481 6333",
+  "+65 6481 6688",
+  "Email:",
+  "sales@sanyoaqm.com.sg",
+  "info@sanyoaqm.com.sg"
+ ],
+ "contact": {
+  "name": "SANYO AQUARIUM (PTE) LTD",
+  "address_lines": [
+   "3 Chencharu Link",
+   "Singapore 768144"
+  ],
+  "tel": "+65 6481 3111",
+  "fax": [
+   "+65 6481 6333",
+   "+65 6481 6688"
+  ],
+  "emails": [
+   "sales@sanyoaqm.com.sg",
+   "info@sanyoaqm.com.sg"
+  ]
+ },
+ "source_contact_form": {
+  "action": "sendMail.php",
+  "method": "POST",
+  "fields": [
+   "name",
+   "companyname",
+   "companyaddress",
+   "designation",
+   "phone",
+   "fax",
+   "visitormail",
+   "feedback",
+   "submit"
+  ],
+  "labels": [
+   "Name",
+   "Company Name",
+   "Company Address",
+   "Designation",
+   "Phone",
+   "Fax",
+   "Email Address",
+   "Your Enquiries/Feedback"
+  ],
+  "note": "Original form posts to sendMail.php on the original server. The rebuild does NOT post to it."
+ },
+ "contact_images": [
+  {
+   "role": "contact page photo (active)",
+   "file": "sanyo.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/sanyo.jpg",
+   "local_original": "originals/images/sanyo.jpg",
+   "width": 280,
+   "height": 188,
+   "bytes": 25814,
+   "sha256": "4afcd6f7756a67d0bb5b3bc29beefb27e0dddd88008a1285a133e16c8829db6e",
+   "last_modified": "Tue, 10 Jul 2012 06:59:54 GMT",
+   "captured_at": "2026-10-02T01:33:13Z"
+  },
+  {
+   "role": "commented-out in source markup",
+   "file": "SanyoPhoto.jpg",
+   "original_url": "https://www.sanyoaqm.com.sg/images/SanyoPhoto.jpg",
+   "local_original": "originals/images/SanyoPhoto.jpg",
+   "width": 280,
+   "height": 188,
+   "bytes": 42733,
+   "sha256": "a5b51250f1fba8c81e9b84d869b0bda2c3d84dffc8bb73a6a2711f727b1bbbef",
+   "last_modified": "Tue, 10 Jul 2012 06:59:58 GMT",
+   "captured_at": "2026-10-02T01:32:49Z"
+  }
+ ],
+ "freshwater_categories": [
+  {
+   "text": "Platy",
+   "link": "freshwaterfishes_platy.html"
+  },
+  {
+   "text": "Guppy",
+   "link": "freshwaterfishes_guppy.html"
+  },
+  {
+   "text": "Molly",
+   "link": "freshwaterfishes_molly.html"
+  },
+  {
+   "text": "Swordtail",
+   "link": "freshwaterfishes_swordtail.html"
+  },
+  {
+   "text": "Tetra",
+   "link": null
+  },
+  {
+   "text": "Barb",
+   "link": null
+  },
+  {
+   "text": "Danio",
+   "link": null
+  },
+  {
+   "text": "Gourami",
+   "link": null
+  },
+  {
+   "text": "Angel",
+   "link": null
+  },
+  {
+   "text": "Catfish",
+   "link": null
+  },
+  {
+   "text": "Glass Fish",
+   "link": null
+  },
+  {
+   "text": "Shark",
+   "link": null
+  },
+  {
+   "text": "Eel",
+   "link": null
+  },
+  {
+   "text": "Goldfish",
+   "link": null
+  },
+  {
+   "text": "Koi",
+   "link": null
+  },
+  {
+   "text": "Cichild",
+   "link": "freshwaterfishes_cichild.html"
+  },
+  {
+   "text": "Fighting Fish",
+   "link": null
+  },
+  {
+   "text": "Shrimps",
+   "link": null
+  },
+  {
+   "text": "Snails",
+   "link": null
+  },
+  {
+   "text": "Knife Fish",
+   "link": null
+  },
+  {
+   "text": "Scat Fish",
+   "link": null
+  },
+  {
+   "text": "Snail",
+   "link": null
+  },
+  {
+   "text": "Puffer Fish",
+   "link": null
+  },
+  {
+   "text": "other",
+   "link": null
+  }
+ ],
+ "marine_categories": [
+  {
+   "text": "Angel Fish",
+   "link": null
+  },
+  {
+   "text": "Butterfly Fish",
+   "link": null
+  },
+  {
+   "text": "Banner Fish",
+   "link": null
+  },
+  {
+   "text": "Batfish",
+   "link": null
+  },
+  {
+   "text": "Anemone Fish",
+   "link": null
+  },
+  {
+   "text": "Damsel Fish",
+   "link": null
+  },
+  {
+   "text": "Chromis Fish",
+   "link": null
+  },
+  {
+   "text": "Surgeon Fish",
+   "link": null
+  },
+  {
+   "text": "Goby Fish",
+   "link": null
+  },
+  {
+   "text": "Blenny Fish",
+   "link": null
+  },
+  {
+   "text": "Eel",
+   "link": null
+  },
+  {
+   "text": "Gramma Fish",
+   "link": null
+  },
+  {
+   "text": "Wrasse",
+   "link": null
+  },
+  {
+   "text": "Anthias Fish",
+   "link": null
+  },
+  {
+   "text": "Grouper",
+   "link": null
+  },
+  {
+   "text": "Lion Fish",
+   "link": null
+  },
+  {
+   "text": "Sweetlips Fish",
+   "link": null
+  },
+  {
+   "text": "Pipefish",
+   "link": null
+  },
+  {
+   "text": "Puffer Fish",
+   "link": null
+  },
+  {
+   "text": "Shark",
+   "link": null
+  },
+  {
+   "text": "Hawk Fish",
+   "link": null
+  },
+  {
+   "text": "Trigger",
+   "link": null
+  }
+ ],
+ "new_fishes": [
+  {
+   "fields": {
+    "Name": "PUNTIUS DENISONI",
+    "pH": "6.5 - 7.5",
+    "Temperature": "18 - 25 Degree Celsius",
+    "_description_lines": [
+     "A very impressive looking barb.",
+     "There are two colour forms, they have a vivid red line and the difference being that in one colour form the black line starts at the tip of the snout with more vivid colouration.",
+     "Their maximum size is around 10cm whilst the larger form achieves a size of around 14 to 15cm."
+    ]
+   },
+   "image": {
+    "src": "images/new_fishes/181.jpg",
+    "file": "181.jpg",
+    "original_url": "https://www.sanyoaqm.com.sg/images/new_fishes/181.jpg",
+    "local_original": "originals/images/new_fishes/181.jpg",
+    "width": 180,
+    "height": 120,
+    "bytes": 25016,
+    "sha256": "032742720353743d304d25d93b0d524101f4df39b786dc15282e89475178a57b",
+    "last_modified": "Tue, 10 Jul 2012 06:59:10 GMT",
+    "captured_at": "2026-10-02T01:33:12Z"
+   }
+  },
+  {
+   "fields": {
+    "Name": "BOTIA KUBOTIA",
+    "pH": "6.8 - 7.3",
+    "Temperature": "23 - 27 Degree Celsius",
+    "_description_lines": [
+     "A very social fish, it is best to keep them in groups of three or more.",
+     "Numerous shelters should be provided which gives them greater security and generally makes them bolder.",
+     "They are an active loach and can be seen hovering around the upper levels.",
+     "This species is very variable in pattern and can change quite dramatically as it grows.",
+     "Generally, the dark areas gradually increase in size as the fish matures."
+    ]
+   },
+   "image": {
+    "src": "images/new_fishes/173.jpg",
+    "file": "173.jpg",
+    "original_url": "https://www.sanyoaqm.com.sg/images/new_fishes/173.jpg",
+    "local_original": "originals/images/new_fishes/173.jpg",
+    "width": 165,
+    "height": 110,
+    "bytes": 26006,
+    "sha256": "67a404a3375c56a1e38466008efb559006ba5c81f8bdd9c89a8c42d04f5a9ec4",
+    "last_modified": "Tue, 10 Jul 2012 06:59:07 GMT",
+    "captured_at": "2026-10-02T01:33:12Z"
+   }
+  }
+ ]
+}

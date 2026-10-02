@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Product catalogue — Sanyo Aquarium</title>
+<meta name="description" content="Search and filter the Sanyo Aquarium photo catalogue: freshwater and marine fishes, aquatic plants, plants on driftwood and driftwood.">
+<meta name="robots" content="noindex, nofollow">
+<meta name="theme-color" content="#0d3b36">
+<link rel="icon" type="image/png" href="assets/img/brand/favicon.png">
+<link rel="stylesheet" href="assets/css/styles.css">
+<script>document.documentElement.classList.add('js');</script>
+</head>
+<body class="page-catalogue">
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <span>Ornamental fish, plants and driftwood exporter &middot; Singapore</span>
+      <span class="topbar-links">
+        <a href="tel:+6564813111">+65 6481 3111</a>
+        <a href="mailto:sales@sanyoaqm.com.sg">sales@sanyoaqm.com.sg</a>
+      </span>
+    </div>
+  </div>
+  <div class="container header-main">
+    <a class="brand" href="index.html">
+      <img src="assets/img/brand/logo.gif" width="191" height="82" alt="">
+      <span class="brand-text"><strong>Sanyo Aquarium</strong><small>(Pte) Ltd &middot; Singapore</small></span>
+    </a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+      <span class="nav-toggle-label">Menu</span>
+    </button>
+    <nav id="site-nav" class="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="index.html">Home</a></li><li><a href="catalogue.html" aria-current="page">Catalogue</a></li><li><a href="freshwater-fishes.html">Freshwater</a></li><li><a href="marine-fishes.html">Marine</a></li><li><a href="aquatic-plants.html">Plants</a></li><li><a href="driftwood.html">Driftwood</a></li><li><a href="new-fishes.html">New Fishes</a></li><li><a href="company.html">Company</a></li><li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+    <a class="btn btn-accent header-enquiry" href="enquiry.html">Enquiry list <span class="count" data-enquiry-count aria-label="items in enquiry list">0</span></a>
+  </div>
+</header>
+<main id="main" tabindex="-1">
+<section class="page-header">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><ol><li><a href="index.html">Home</a></li><li aria-current="page">Catalogue</li></ol></nav>
+    <h1>Product catalogue</h1>
+    <p class="lead">Search all 102 photographs and every listed category from the original website. Add anything to your enquiry list.</p>
+  </div>
+</section>
+<section class="section catalogue-tools-wrap">
+  <div class="container">
+    <form class="catalogue-tools" id="cat-form" role="search" aria-label="Catalogue search" novalidate>
+      <div class="field field-grow">
+        <label for="q">Search names, scientific names or file numbers</label>
+        <input id="q" name="q" type="search" autocomplete="off" inputmode="search" enterkeyhint="search" placeholder="e.g. platy, maculatus, guppy, 005">
+      </div>
+      <div class="field">
+        <label for="album">Gallery</label>
+        <select id="album" name="album"><option value="">All galleries</option></select>
+      </div>
+      <div class="field field-chips">
+        <span class="field-label" id="chips-label">Category</span>
+        <div class="chips" role="group" aria-labelledby="chips-label"><button type="button" class="chip" data-section-chip="" aria-pressed="true">All</button><button type="button" class="chip" data-section-chip="freshwater" aria-pressed="false">Freshwater fishes</button><button type="button" class="chip" data-section-chip="marine" aria-pressed="false">Marine fishes</button><button type="button" class="chip" data-section-chip="plants" aria-pressed="false">Aquatic plants</button><button type="button" class="chip" data-section-chip="plants-driftwood" aria-pressed="false">Plants on driftwood</button><button type="button" class="chip" data-section-chip="new" aria-pressed="false">New Fishes</button><button type="button" class="chip" data-section-chip="driftwood" aria-pressed="false">Driftwood</button></div>
+      </div>
+      <div class="field field-actions"><button type="reset" class="btn btn-ghost-dark" id="cat-clear">Clear filters</button></div>
+    </form>
+    <p id="result-count" class="result-count" role="status" aria-live="polite"></p>
+    <div id="results" class="results"></div>
+    <noscript><div class="notice notice-info"><p>Search and filters need JavaScript. You can still browse each gallery:</p><ul><li><a href="freshwater-fishes.html">Freshwater fishes</a></li><li><a href="marine-fishes.html">Marine fishes</a></li><li><a href="aquatic-plants.html">Aquatic plants</a></li><li><a href="plants-on-driftwood.html">Plants on driftwood</a></li><li><a href="new-fishes.html">New Fishes (source page)</a></li><li><a href="driftwood.html">Driftwood</a></li></ul></div></noscript>
+  </div>
+</section>
+<dialog id="lightbox" class="lightbox" aria-labelledby="lb-title">
+  <div class="lb-inner">
+    <div class="lb-head">
+      <h2 id="lb-title" class="lb-title">Photo</h2>
+      <button type="button" class="btn btn-ghost-dark btn-icon" data-lb-close aria-label="Close enlarged photo">&times; <span>Close</span></button>
+    </div>
+    <div class="lb-stage" id="lb-stage">
+      <button type="button" class="lb-nav lb-prev" data-lb-prev aria-label="Previous photo">&#8249;</button>
+      <figure class="lb-figure"><img id="lb-img" alt="" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></figure>
+      <button type="button" class="lb-nav lb-next" data-lb-next aria-label="Next photo">&#8250;</button>
+    </div>
+    <div class="lb-meta">
+      <p class="lb-sci" id="lb-sci"></p>
+      <p class="lb-care" id="lb-care"></p>
+      <p class="lb-src" id="lb-src"></p>
+      <p class="lb-res" id="lb-res"></p>
+      <p class="lb-count" id="lb-count" aria-live="polite"></p>
+      <p class="ai-label" id="lb-ai-label" hidden>AI illustration</p>
+    </div>
+    <div class="lb-actions">
+      <button type="button" class="btn btn-ghost-dark" data-lb-zoom aria-pressed="false">Actual size (1&times;)</button>
+      <button type="button" class="btn btn-ghost-dark" data-lb-variant hidden>Show AI illustration</button>
+      <button type="button" class="btn btn-accent" data-lb-add>Add to enquiry</button>
+      <a class="btn btn-ghost-dark" href="enquiry.html">View enquiry list</a>
+    </div>
+  </div>
+</dialog>
+</main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <p class="footer-brand">Sanyo Aquarium (Pte) Ltd</p>
+      <address>
+        3 Chencharu Link<br>Singapore 768144<br>
+        Tel: <a href="tel:+6564813111">+65 6481 3111</a><br>
+        Fax: +65 6481 6333 / +65 6481 6688<br>
+        <a href="mailto:sales@sanyoaqm.com.sg">sales@sanyoaqm.com.sg</a><br>
+        <a href="mailto:info@sanyoaqm.com.sg">info@sanyoaqm.com.sg</a>
+      </address>
+    </div>
+    <div>
+      <p class="footer-title">Browse</p>
+      <ul class="footer-links">
+        <li><a href="catalogue.html">Catalogue &amp; search</a></li>
+        <li><a href="freshwater-fishes.html">Freshwater fishes</a></li>
+        <li><a href="marine-fishes.html">Marine fishes</a></li>
+        <li><a href="aquatic-plants.html">Aquatic plants</a></li>
+        <li><a href="plants-on-driftwood.html">Plants on driftwood</a></li>
+        <li><a href="driftwood.html">Driftwood</a></li>
+        <li><a href="new-fishes.html">New Fishes (source page)</a></li>
+      </ul>
+    </div>
+    <div>
+      <p class="footer-title">Company &amp; enquiries</p>
+      <ul class="footer-links">
+        <li><a href="company.html">Company profile</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="enquiry.html">Prepare an enquiry</a></li>
+        <li><a href="content-notes.html">Content notes</a></li>
+        <li><a href="https://www.sanyoaqm.com.sg/index.html" rel="noopener" target="_blank">Original website <span class="visually-hidden">(opens in a new tab)</span>&#8599;</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-note">
+    <p>Original catalogue and company photographs remain preserved in the audit sources with their watermarks intact.
+    AI illustrations are visual aids, not photographs of actual stock or company premises.
+    Company statements marked &ldquo;historical&rdquo; come from that website (last modified 10 July 2012) and await company confirmation.
+    No prices, stock levels or availability are published here.</p>
+  </div>
+</footer>
+<a class="enquiry-fab" href="enquiry.html">Enquiry list <span class="count" data-enquiry-count aria-label="items in enquiry list">0</span></a>
+<div class="toast-region" id="toast-region" role="status" aria-live="polite" aria-atomic="true"></div>
+<script src="assets/js/catalogue-data.js" defer></script>
+<script src="assets/js/enquiry-store.js" defer></script>
+<script src="assets/js/ui.js" defer></script>
+<script src="assets/js/catalogue.js" defer></script>
+</body>
+</html>

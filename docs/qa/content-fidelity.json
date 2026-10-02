@@ -1,0 +1,236 @@
+{
+ "checks": [
+  {
+   "check": "source blocks are verbatim in the raw pages",
+   "pass": true,
+   "detail": "0 not found: []"
+  },
+  {
+   "check": "review-log quotes are verbatim in the cited source pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "contact page shows every published contact value",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "contact values match source record",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "footer repeats tel/email on every page",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "tel: and mailto: links are correct",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "gallery photo count in source record",
+   "pass": true,
+   "detail": "102"
+  },
+  {
+   "check": "catalogue data has every source photo once",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "all 102 original gallery files exist and match recorded SHA-256",
+   "pass": true,
+   "detail": "[] []"
+  },
+  {
+   "check": "delivered WebP for every photo exists with unchanged pixel dimensions",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "every photo's album/page association appears in its source page markup",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "each gallery page lists exactly its album's photos in source order",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no orphan or missing catalogue images in site/",
+   "pass": true,
+   "detail": "orphans=[] missing=[]"
+  },
+  {
+   "check": "image_mode is configured and built as ai-illustration",
+   "pass": true,
+   "detail": "editorial=ai-illustration, built=ai-illustration"
+  },
+  {
+   "check": "AI image manifest covers the 102 catalogue photos exactly once",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "accepted AI images include the required alt label and separate generated file",
+   "pass": true,
+   "detail": "label/data=[], files=[]"
+  },
+  {
+   "check": "each accepted AI image has a labelled card variant and the both-mode toggle",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "every rendered AI image has a concise visible badge and AI alt text",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "AI image mode uses generated images in catalogue and company photo slots",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "both image mode exposes variant toggles on homepage and category thumbnails",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "both image mode exposes toggles on building and facility illustrations",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "lightbox includes the concise AI label and both-mode toggle",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "enquiry lines and exported item text identify AI illustrations",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "all original company photographs and adjacent logos remain on original delivery paths with source hashes intact",
+   "pass": true,
+   "detail": "missing=[], bad=[]"
+  },
+  {
+   "check": "company/facility originals stay out of the 102-image catalogue manifest",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "company AI manifest covers seven separate, hashed building/facility variants",
+   "pass": true,
+   "detail": "missing=[], bad=[]"
+  },
+  {
+   "check": "every displayed company illustration has a visible label, AI alt text and an original-image reference",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "freshwater category list (24) identical to source order/spelling",
+   "pass": true,
+   "detail": "['Platy', 'Guppy', 'Molly', 'Swordtail', 'Tetra', 'Barb', 'Danio', 'Gourami', 'Angel', 'Catfish', 'Glass Fish', 'Shark', 'Eel', 'Goldfish', 'Koi', 'Cichild', 'Fighting Fish', 'Shrimps', 'Snails', 'Knife Fish', 'Scat Fish', 'Snail', 'Puffer Fish', 'other'] vs ['Platy', 'Guppy', 'Molly', 'Swordtail', 'Tetra', 'Barb', 'Danio', 'Gourami', 'Angel', 'Catfish', 'Glass Fish', 'Shark', 'Eel', 'Goldfish', 'Koi', 'Cichild', 'Fighting Fish', 'Shrimps', 'Snails', 'Knife Fish', 'Scat Fish', 'Snail', 'Puffer Fish', 'other']"
+  },
+  {
+   "check": "marine category list (22) identical to source order/spelling",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "source scientific names and pH/temperature appear unchanged on album pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "New Fishes entries keep source spelling, care values and full description text",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "source misspellings preserved in the record (Cichild, HELERI)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "no platy breeding temperature text on public pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no 'new this week' / stock claims on public pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no prices on public pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no 'sent' success wording on public pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no invented certifications / testimonials on public pages",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "platy breeding text is quoted only on the flagged content-notes page",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "historical claims (years, memberships, AVA, tank count, 24-hr support) appear only on the company page",
+   "pass": true,
+   "detail": "{}"
+  },
+  {
+   "check": "company page qualifies historical statements",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "Cairo kept verbatim and flagged as city, not country",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "hero does not use the 'leading exporter' or years claims",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "New Fishes page states it is undated / not current stock",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "no hotlinked images/scripts/styles from external hosts",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no secrets in delivered files",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "URL map covers all 19 source pages and targets exist",
+   "pass": true,
+   "detail": "set()"
+  }
+ ],
+ "passed": 46,
+ "total": 46
+}

@@ -1,0 +1,3866 @@
+[
+ {
+  "url": "https://www.sanyoaqm.com.sg/aboutus.html",
+  "captured_at": "2026-10-02T01:32:42Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/aboutus.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:40 GMT",
+  "bytes": 10195,
+  "sha256": "44aed675ba51d73ac5609ade03d74efb9b11c85000fa69a898a285d689aa17e8",
+  "raw_file": "raw-html/aboutus.html",
+  "title": "Welcome to sanyoaqm.com.sg - Company Profile",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "http://www.ofish.org",
+    "resolved": "http://www.ofish.org",
+    "text": "Ornamental Fish International (OFI)"
+   },
+   {
+    "href": "http://www.safea.org",
+    "resolved": "http://www.safea.org",
+    "text": "Singapore Aquarium Fish Exporters' Association (SAFEA)"
+   },
+   {
+    "href": "http://www.ava.gov.sg",
+    "resolved": "http://www.ava.gov.sg",
+    "text": "Agri-food & Veterinary Authority of Singapore (AVA)"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_profile.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_profile.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/company_photo.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/company_photo.jpg",
+    "via": "img[src]",
+    "width_attr": "178",
+    "height_attr": "120",
+    "alt": null
+   },
+   {
+    "src": "images/aboutus_member.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aboutus_member.jpg",
+    "via": "img[src]",
+    "width_attr": "403",
+    "height_attr": "50",
+    "alt": null
+   },
+   {
+    "src": "images/about_us1_11.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/about_us1_11.jpg",
+    "via": "img[src]",
+    "width_attr": "178",
+    "height_attr": "120",
+    "alt": null
+   },
+   {
+    "src": "images/about_us2_1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/about_us2_1.jpg",
+    "via": "img[src]",
+    "width_attr": "163",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/about_us3_1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/about_us3_1.jpg",
+    "via": "img[src]",
+    "width_attr": "163",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/about_us4_1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/about_us4_1.jpg",
+    "via": "img[src]",
+    "width_attr": "163",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/about_us5_1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/about_us5_1.jpg",
+    "via": "img[src]",
+    "width_attr": "163",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 2691
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+  "captured_at": "2026-10-02T01:32:43Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:42 GMT",
+  "bytes": 8236,
+  "sha256": "7458887cf2671bad5f4c6f761b0c18cb93a62ac5489091e55101db83da4625a7",
+  "raw_file": "raw-html/aquaticplants.html",
+  "title": "Welcome to sanyoaqm.com.sg",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic Plant"
+   },
+   {
+    "href": "aquaticplants_on_driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+    "text": "Aquatic Plant on Driftwood"
+   },
+   {
+    "href": "aquaticplants_2.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+    "text": "Page 2"
+   },
+   {
+    "href": "aquaticplants_3.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+    "text": "Page 3"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_aquatic_plants.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_aquatic_plants.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/21.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/21.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/24.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/24.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/22.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/22.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/20.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/20.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/13.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/13.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/11.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/11.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/10.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/10.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/7.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/7.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/6.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/6.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 458
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+  "captured_at": "2026-10-02T01:32:47Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:43 GMT",
+  "bytes": 8247,
+  "sha256": "622d393ef06be2ad9eb4869640dcbac16d7eb6e8cfa9a3f63a3d1a48072a5f70",
+  "raw_file": "raw-html/aquaticplants_2.html",
+  "title": "Welcome to sanyoaqm.com.sg - Aquatic Plant",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic Plant"
+   },
+   {
+    "href": "aquaticplants_on_driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+    "text": "Aquatic Plant on Driftwood"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Page 1"
+   },
+   {
+    "href": "aquaticplants_3.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+    "text": "Page 3"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_aquatic_plants.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_aquatic_plants.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/5.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/5.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/4.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/4.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/3.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/3.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/2.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/2.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/1.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/35.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/35.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/34.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/34.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/33.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/33.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/32.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/32.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 474
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+  "captured_at": "2026-10-02T01:32:47Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:45 GMT",
+  "bytes": 7997,
+  "sha256": "23b72fd01b0f4f3e406cfcf472c8737a36267f790bf5f2bfd228006b98bd38d5",
+  "raw_file": "raw-html/aquaticplants_3.html",
+  "title": "Welcome to sanyoaqm.com.sg - Aquatic Plant",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic Plant"
+   },
+   {
+    "href": "aquaticplants_on_driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+    "text": "Aquatic Plant on Driftwood"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Page 1"
+   },
+   {
+    "href": "aquaticplants_2.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+    "text": "Page 2"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_aquatic_plants.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_aquatic_plants.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/27.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/27.jpg",
+    "via": "img[src]",
+    "width_attr": "87",
+    "height_attr": "130",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/26.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/26.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/14.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/14.jpg",
+    "via": "img[src]",
+    "width_attr": "87",
+    "height_attr": "130",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/8.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/8.jpg",
+    "via": "img[src]",
+    "width_attr": "87",
+    "height_attr": "130",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/31.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/31.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/9.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/9.jpg",
+    "via": "img[src]",
+    "width_attr": "87",
+    "height_attr": "130",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 474
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+  "captured_at": "2026-10-02T01:32:46Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:47 GMT",
+  "bytes": 7222,
+  "sha256": "069532f4115b467c7d2470ef7d46d6c175d2d008a18cd66b43e24f2747c408f8",
+  "raw_file": "raw-html/aquaticplants_on_driftwood.html",
+  "title": "Welcome to sanyoaqm.com.sg - Aquatic Plant",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic Plant"
+   },
+   {
+    "href": "aquaticplants_on_driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+    "text": "Aquatic Plant on Driftwood"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_aquatic_plants.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_aquatic_plants.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/30.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/30.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/29.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/29.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/aquatic_plants/28.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/aquatic_plants/28.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 453
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/contact.html",
+  "captured_at": "2026-10-02T01:32:44Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/contact.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:19 GMT",
+  "bytes": 9383,
+  "sha256": "64f3dab248134c2305bde1a8132e1e677dd4ed2af4b326a46d5d8c2f8cff194e",
+  "raw_file": "raw-html/contact.html",
+  "title": "Welcome to sanyoaqm.com.sg - Contact Us",
+  "meta_description": "",
+  "commented_out_images": [
+   "images/SanyoPhoto.jpg"
+  ],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_contact_us.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_contact_us.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/sanyo.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/sanyo.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": ""
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 601
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/driftwood.html",
+  "captured_at": "2026-10-02T01:32:44Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/driftwood.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:49 GMT",
+  "bytes": 6437,
+  "sha256": "06e725043ffab82f16e5f115723ac30e9cd9808404f0c89b70a5cb7977729211",
+  "raw_file": "raw-html/driftwood.html",
+  "title": "Welcome to sanyoaqm.com.sg - Driftwood",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_driftwood.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_driftwood.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": "620",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/driftwood/7.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/driftwood/7.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/driftwood/8.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/driftwood/8.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/driftwood/9.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/driftwood/9.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 397
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+  "captured_at": "2026-10-02T01:32:43Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:26 GMT",
+  "bytes": 7000,
+  "sha256": "2957808fe4c5853d0a915d54806c17be8c26724d790db67019946b3f2bf97d82",
+  "raw_file": "raw-html/freshwaterfishes.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 692
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+  "captured_at": "2026-10-02T01:32:46Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:28 GMT",
+  "bytes": 9308,
+  "sha256": "6e2c0f8dda35dbdf881122cb746c761539a3444255121bd413dad11700124b7f",
+  "raw_file": "raw-html/freshwaterfishes_cichild.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_0804.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0804.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_0833.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0833.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_0949.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0949.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_0982.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_0982.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_1429.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1429.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_1448.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1448.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_1464.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1464.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_1483.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1483.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/cichild/IMG_1495.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/cichild/IMG_1495.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 315
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+  "captured_at": "2026-10-02T01:32:45Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:30 GMT",
+  "bytes": 9336,
+  "sha256": "4642bfe12749ab8e97e67e728be6275f67c6ddb11d5673b2a6ac09898df4b5df",
+  "raw_file": "raw-html/freshwaterfishes_guppy.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/161.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/161.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/169.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/169.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/153.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/153.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/157.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/157.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/166.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/166.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/094.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/094.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/102.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/102.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/12.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/12.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/30.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/30.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/32.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/32.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/42.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/42.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/guppy/50.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/guppy/50.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 492
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+  "captured_at": "2026-10-02T01:32:45Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:32 GMT",
+  "bytes": 9077,
+  "sha256": "a09a2be939a7806109ca4e6fe1b70a31b9f6f4a5d429a5618383cef6791c236c",
+  "raw_file": "raw-html/freshwaterfishes_molly.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/122.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/122.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/120.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/120.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/126.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/126.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/147.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/147.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/136.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/136.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/141.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/141.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/142.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/142.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/110.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/110.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/molly/130.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/molly/130.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 574
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+  "captured_at": "2026-10-02T01:32:45Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:34 GMT",
+  "bytes": 10118,
+  "sha256": "e1d01b3e4c76cff14e885d62ae6357dde788b6fde23623d017bf14eacc8be4db",
+  "raw_file": "raw-html/freshwaterfishes_platy.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "freshwaterfishes_platy_2.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+    "text": "Page 2"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/005.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/005.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/004.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/004.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/008.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/008.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/015.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/015.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/022.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/022.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/025.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/025.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/031.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/031.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/036.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/036.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/040.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/040.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/043.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/043.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/045.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/045.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/053.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/053.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 893
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+  "captured_at": "2026-10-02T01:32:48Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:36 GMT",
+  "bytes": 9557,
+  "sha256": "b100d5c00e4414f68082746077a850a9498db1e45c33b10cd2de44639d0c0779",
+  "raw_file": "raw-html/freshwaterfishes_platy_2.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Page 1"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/192.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/192.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/058.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/058.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/061.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/061.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/067.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/067.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/079.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/079.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/083.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/083.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/089.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/089.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/182.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/182.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/platy/072.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/platy/072.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 685
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+  "captured_at": "2026-10-02T01:32:46Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:38 GMT",
+  "bytes": 9157,
+  "sha256": "aa8628e14a520e5e6cadffbf1e48c038908c9833bf2aa65320500c23c1ca4b2a",
+  "raw_file": "raw-html/freshwaterfishes_swordtail.html",
+  "title": "Welcome to sanyoaqm.com.sg - Freshwater Fish",
+  "meta_description": "",
+  "commented_out_images": [
+   "images/freshwater_fishes/molly/136.jpg",
+   "images/freshwater_fishes/molly/141.jpg",
+   "images/freshwater_fishes/molly/142.jpg",
+   "images/freshwater_fishes/molly/110.jpg",
+   "images/freshwater_fishes/molly/130.jpg"
+  ],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "freshwaterfishes_platy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+    "text": "Platy"
+   },
+   {
+    "href": "freshwaterfishes_guppy.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+    "text": "Guppy"
+   },
+   {
+    "href": "freshwaterfishes_molly.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+    "text": "Molly"
+   },
+   {
+    "href": "freshwaterfishes_swordtail.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+    "text": "Swordtail"
+   },
+   {
+    "href": "freshwaterfishes_cichild.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+    "text": "Cichild"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_freshwater_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_freshwater_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/swordtail/04.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/04.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/swordtail/IMG_0990.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/IMG_0990.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/swordtail/05.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/05.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/freshwater_fishes/swordtail/IMG_1005.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/freshwater_fishes/swordtail/IMG_1005.jpg",
+    "via": "img[src]",
+    "width_attr": "165",
+    "height_attr": "110",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 586
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/index.html",
+  "captured_at": "2026-10-02T01:32:42Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/index.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:24 GMT",
+  "bytes": 6613,
+  "sha256": "6a96ef5b9ff0dcda27fa7dc09256d8fdb232d01b9a99c9402166ab059f7235e1",
+  "raw_file": "raw-html/index.html",
+  "title": "Welcome to sanyoaqm.com.sg",
+  "meta_description": "Sanyo Aquarium Pte Ltd, fish exporter in Singapore",
+  "commented_out_images": [
+   "images/images/homepic11.jpg"
+  ],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "http://www.safea.org",
+    "resolved": "http://www.safea.org",
+    "text": ""
+   },
+   {
+    "href": "http://www.ofish.org",
+    "resolved": "http://www.ofish.org",
+    "text": ""
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": ""
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/images/homepic-31-1-2007_01.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_01.jpg",
+    "via": "img[src]",
+    "width_attr": "372",
+    "height_attr": "118",
+    "alt": ""
+   },
+   {
+    "src": "images/images/homepic-31-1-2007_02.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_02.jpg",
+    "via": "img[src]",
+    "width_attr": "371",
+    "height_attr": "118",
+    "alt": ""
+   },
+   {
+    "src": "images/images/homepic-31-1-2007_03.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_03.jpg",
+    "via": "img[src]",
+    "width_attr": "372",
+    "height_attr": "117",
+    "alt": ""
+   },
+   {
+    "src": "images/images/homepic-31-1-2007_04.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/images/homepic-31-1-2007_04.jpg",
+    "via": "img[src]",
+    "width_attr": "371",
+    "height_attr": "117",
+    "alt": ""
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/memberof.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/memberof.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "50",
+    "alt": null
+   },
+   {
+    "src": "images/safea.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/safea.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "50",
+    "alt": null
+   },
+   {
+    "src": "images/ofish.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/ofish.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "50",
+    "alt": null
+   },
+   {
+    "src": "images/enter.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/enter.gif",
+    "via": "img[src]",
+    "width_attr": "106",
+    "height_attr": "21",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 251
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/marinefish.html",
+  "captured_at": "2026-10-02T01:32:43Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/marinefish.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:00:58 GMT",
+  "bytes": 6613,
+  "sha256": "dd2bc969a300c6dfdad9f9321fed7fc7f23301904ae8382f98ffb8e0f2b7be07",
+  "raw_file": "raw-html/marinefish.html",
+  "title": "Welcome to sanyoaqm.com.sg - Marine Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "marinefish_more_pictures_1.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+    "text": "Show Pictures"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_marine_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_marine_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 589
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+  "captured_at": "2026-10-02T01:32:47Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:01:00 GMT",
+  "bytes": 7254,
+  "sha256": "b6ef4cd88212b9677495f95c87d615ef294ec1401137a895192a8cc5913783d6",
+  "raw_file": "raw-html/marinefish_more_pictures_1.html",
+  "title": "Welcome to sanyoaqm.com.sg - Marine Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "marinefish_more_pictures_2.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+    "text": "Page 2"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_marine_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_marine_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": "620",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/01.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/01.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/02.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/02.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/03.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/03.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/04.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/04.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/05.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/05.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/07.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/07.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/06.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/06.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/08.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/08.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/09.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/09.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 279
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+  "captured_at": "2026-10-02T01:32:48Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:01:01 GMT",
+  "bytes": 6947,
+  "sha256": "9e239f583e8ff287f32600320ef2ad95be934d6a572691d76c8f78685eec399c",
+  "raw_file": "raw-html/marinefish_more_pictures_2.html",
+  "title": "Welcome to sanyoaqm.com.sg - Marine Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "marinefish_more_pictures_1.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+    "text": "Page 1"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_marine_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_marine_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": "620",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/10.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/10.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/11.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/11.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/12.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/12.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/13.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/13.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/14.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/14.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/marine_fishes/15.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/marine_fishes/15.jpg",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 279
+ },
+ {
+  "url": "https://www.sanyoaqm.com.sg/newfishes.html",
+  "captured_at": "2026-10-02T01:32:44Z",
+  "status": 200,
+  "final_url": "https://www.sanyoaqm.com.sg/newfishes.html",
+  "content_type": "text/html",
+  "last_modified": "Tue, 10 Jul 2012 07:01:03 GMT",
+  "bytes": 9038,
+  "sha256": "412c1d48ba287c0820f84a95e30ff586cb318ba5ca6897bedd0fd5a32515d88f",
+  "raw_file": "raw-html/newfishes.html",
+  "title": "Welcome to sanyoaqm.com.sg - New Fish",
+  "meta_description": "",
+  "commented_out_images": [],
+  "links": [
+   {
+    "href": "index.html",
+    "resolved": "https://www.sanyoaqm.com.sg/index.html",
+    "text": "Home"
+   },
+   {
+    "href": "aboutus.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aboutus.html",
+    "text": "Company Profile"
+   },
+   {
+    "href": "freshwaterfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+    "text": "Freshwater Fishes"
+   },
+   {
+    "href": "aquaticplants.html",
+    "resolved": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+    "text": "Aquatic \n            Plants"
+   },
+   {
+    "href": "marinefish.html",
+    "resolved": "https://www.sanyoaqm.com.sg/marinefish.html",
+    "text": "Marine Fishes"
+   },
+   {
+    "href": "newfishes.html",
+    "resolved": "https://www.sanyoaqm.com.sg/newfishes.html",
+    "text": "New Fishes"
+   },
+   {
+    "href": "driftwood.html",
+    "resolved": "https://www.sanyoaqm.com.sg/driftwood.html",
+    "text": "Driftwood"
+   },
+   {
+    "href": "contact.html",
+    "resolved": "https://www.sanyoaqm.com.sg/contact.html",
+    "text": "Contact Us"
+   },
+   {
+    "href": "http://www.e-contech.com",
+    "resolved": "http://www.e-contech.com",
+    "text": "e-contech"
+   }
+  ],
+  "images": [
+   {
+    "src": "images/topbar.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/topbar.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "10px",
+    "alt": null
+   },
+   {
+    "src": "images/SanyoAqmLogo.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/SanyoAqmLogo.gif",
+    "via": "img[src]",
+    "width_attr": null,
+    "height_attr": "82",
+    "alt": null
+   },
+   {
+    "src": "images/top.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top.gif",
+    "via": "td[background]",
+    "width_attr": null,
+    "height_attr": "14px",
+    "alt": null
+   },
+   {
+    "src": "images/top_banner.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/top_banner.jpg",
+    "via": "img[src]",
+    "width_attr": "547",
+    "height_attr": "116",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/banner_new_fishes.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/banner_new_fishes.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "30",
+    "alt": null
+   },
+   {
+    "src": "images/arch.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/arch.gif",
+    "via": "img[src]",
+    "width_attr": "620",
+    "height_attr": null,
+    "alt": null
+   },
+   {
+    "src": "images/new_fishes/181.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/new_fishes/181.jpg",
+    "via": "img[src]",
+    "width_attr": "180",
+    "height_attr": "120",
+    "alt": null
+   },
+   {
+    "src": "images/new_fishes/173.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/new_fishes/173.jpg",
+    "via": "img[src]",
+    "width_attr": "180",
+    "height_attr": "120",
+    "alt": null
+   },
+   {
+    "src": "images/bottom1.jpg",
+    "resolved": "https://www.sanyoaqm.com.sg/images/bottom1.jpg",
+    "via": "img[src]",
+    "width_attr": "760",
+    "height_attr": "12",
+    "alt": null
+   },
+   {
+    "src": "images/dot.gif",
+    "resolved": "https://www.sanyoaqm.com.sg/images/dot.gif",
+    "via": "img[src]",
+    "width_attr": "1",
+    "height_attr": "40",
+    "alt": null
+   }
+  ],
+  "other_resources": [
+   "https://www.sanyoaqm.com.sg/css/sanyo.css"
+  ],
+  "text_length": 1149
+ }
+]

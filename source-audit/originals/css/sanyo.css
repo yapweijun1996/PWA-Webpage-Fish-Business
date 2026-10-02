@@ -1,0 +1,122 @@
+.incontech {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 19px;
+}
+.navigation {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-style: normal;
+	padding-left: 7px;
+}
+
+.navigation a { color:#FFFFFF;}
+.navigation a:link { color:#FFFFFF;}
+.navigation a:hover { color:#FFFFFF;}
+.navigation a:visited { color:#FFFFFF;}
+
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FFFFFF;
+}
+
+.copyright a { color:#FFFFFF;}
+.copyright a:link { color:#FFFFFF;}
+.copyright a:hover { color:#FFFFFF;}
+.copyright a:visited { color:#FFFFFF;}
+
+.indexcontent {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	text-align:center;
+}
+.content_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding-left: 20px;
+}
+.content_content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:justify;
+	padding-left: 20px;
+	padding-right: 20px;
+	line-height: 20px;
+}
+.content_content a { color:#FFFFFF;}
+.content_content a:link { color:#FFFFFF;}
+.content_content a:hover { color:#FFFFFF;}
+.content_content a:visited { color:#FFFFFF;}
+
+.content_address {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-align:justify;
+	line-height: 20px;
+}
+.content_address a { color:#FFFFFF;}
+.content_address a:link { color:#FFFFFF;}
+.content_address a:hover { color:#FFFFFF;}
+.content_address a:visited { color:#FFFFFF;}
+
+.content_sub_title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-align: justify;
+	padding-left: 13px;
+	line-height: 20px;
+	text-decoration: underline;
+}
+.logo_text{
+	font-family: "Times New Roman", Helvetica, sans-serif;
+	font-size: 17px;
+	line-height: normal;
+	font-weight: bold;	
+}
+.content_link{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: bold;
+	color: #FFFFFF;
+	line-height: 20px;
+}
+
+.content_newfishes {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 20px;
+	font-weight: bold;
+	text-align:justify;
+	line-height: 20px;
+}

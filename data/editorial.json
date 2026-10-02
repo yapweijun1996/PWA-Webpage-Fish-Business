@@ -1,0 +1,351 @@
+{
+  "_readme": "Editorial layer on top of data/source-record.json. Source text stays untouched in source-record.json; this file only holds display labels, search aliases, proposed (unverified) corrections and publication decisions. Edit here, then run: python tools/build_site.py",
+  "site": {
+    "name": "Sanyo Aquarium (Pte) Ltd",
+    "short_name": "Sanyo Aquarium",
+    "tagline": "Aquatic life, from Singapore.",
+    "site_url": "",
+    "noindex": true,
+    "source_site": "https://www.sanyoaqm.com.sg/index.html",
+    "source_last_modified": "2012-07-10",
+    "audit_date": "2026-10-02",
+    "image_mode": "ai-illustration"
+  },
+  "sections": [
+    {
+      "id": "freshwater",
+      "label": "Freshwater fishes",
+      "page": "freshwater-fishes.html",
+      "albums": [
+        "freshwater-platy",
+        "freshwater-guppy",
+        "freshwater-molly",
+        "freshwater-swordtail",
+        "freshwater-cichild"
+      ],
+      "cover": "freshwater-guppy-12",
+      "old_urls": [
+        "freshwaterfishes.html"
+      ]
+    },
+    {
+      "id": "marine",
+      "label": "Marine fishes",
+      "page": "marine-fishes.html",
+      "albums": [
+        "marine-fishes"
+      ],
+      "cover": "marine-fishes-05",
+      "old_urls": [
+        "marinefish.html",
+        "marinefish_more_pictures_1.html",
+        "marinefish_more_pictures_2.html"
+      ]
+    },
+    {
+      "id": "plants",
+      "label": "Aquatic plants",
+      "page": "aquatic-plants.html",
+      "albums": [
+        "aquatic-plants"
+      ],
+      "cover": "aquatic-plants-13",
+      "old_urls": [
+        "aquaticplants.html",
+        "aquaticplants_2.html",
+        "aquaticplants_3.html"
+      ]
+    },
+    {
+      "id": "plants-driftwood",
+      "label": "Plants on driftwood",
+      "page": "plants-on-driftwood.html",
+      "albums": [
+        "plants-on-driftwood"
+      ],
+      "cover": "plants-on-driftwood-29",
+      "old_urls": [
+        "aquaticplants_on_driftwood.html"
+      ]
+    },
+    {
+      "id": "new",
+      "label": "New Fishes (source page)",
+      "page": "new-fishes.html",
+      "albums": [
+        "new-fishes"
+      ],
+      "cover": "new-fishes-181",
+      "old_urls": [
+        "newfishes.html"
+      ]
+    },
+    {
+      "id": "driftwood",
+      "label": "Driftwood",
+      "page": "driftwood.html",
+      "albums": [
+        "driftwood"
+      ],
+      "cover": "driftwood-8",
+      "old_urls": [
+        "driftwood.html"
+      ]
+    }
+  ],
+  "albums": {
+    "freshwater-platy": {
+      "section": "freshwater",
+      "label": "Platy",
+      "title": "Platy",
+      "page": "freshwater-platy.html",
+      "sci_source": "XIPHOPHORUS MACULATUS",
+      "aliases": [
+        "platies",
+        "platyfish"
+      ],
+      "description_show": "Small, hardy, active, peaceful and pretty.",
+      "withheld": "breeding_temperature",
+      "review_ids": [
+        "R07"
+      ]
+    },
+    "freshwater-guppy": {
+      "section": "freshwater",
+      "label": "Guppy",
+      "title": "Guppy",
+      "page": "freshwater-guppy.html",
+      "sci_source": "POECILIA RETICULATA",
+      "aliases": [
+        "guppies"
+      ],
+      "review_ids": []
+    },
+    "freshwater-molly": {
+      "section": "freshwater",
+      "label": "Molly",
+      "title": "Molly",
+      "page": "freshwater-molly.html",
+      "sci_source": "POECILIA LATIPINNA",
+      "aliases": [
+        "mollies",
+        "mollys"
+      ],
+      "review_ids": [
+        "R14"
+      ]
+    },
+    "freshwater-swordtail": {
+      "section": "freshwater",
+      "label": "Swordtail",
+      "title": "Swordtail",
+      "page": "freshwater-swordtail.html",
+      "sci_source": "XIPHOPHORUS HELERI",
+      "aliases": [
+        "swordtails"
+      ],
+      "proposed": {
+        "sci": "Xiphophorus hellerii",
+        "note": "The source spelling is “heleri”; the usual spelling is “hellerii”. Not confirmed by the company."
+      },
+      "review_ids": [
+        "R08",
+        "R15"
+      ]
+    },
+    "freshwater-cichild": {
+      "section": "freshwater",
+      "label": "Cichild",
+      "title": "Cichild",
+      "page": "freshwater-cichild.html",
+      "sci_source": null,
+      "aliases": [
+        "cichlid",
+        "cichlids"
+      ],
+      "proposed": {
+        "label": "Cichlid",
+        "note": "The original site spells this category “Cichild”. “Cichlid” is the usual spelling; the proposed correction is not confirmed by the company."
+      },
+      "review_ids": [
+        "R09",
+        "R13",
+        "R15"
+      ]
+    },
+    "marine-fishes": {
+      "section": "marine",
+      "label": "Marine fishes",
+      "title": "Marine fishes",
+      "page": "marine-fishes.html",
+      "sci_source": null,
+      "aliases": [
+        "marine fish",
+        "saltwater",
+        "reef"
+      ],
+      "review_ids": [
+        "R13",
+        "R18"
+      ]
+    },
+    "aquatic-plants": {
+      "section": "plants",
+      "label": "Aquatic plants",
+      "title": "Aquatic plants",
+      "page": "aquatic-plants.html",
+      "sci_source": null,
+      "aliases": [
+        "plant",
+        "plants",
+        "aquarium plants"
+      ],
+      "review_ids": [
+        "R13",
+        "R28"
+      ]
+    },
+    "plants-on-driftwood": {
+      "section": "plants-driftwood",
+      "label": "Plants on driftwood",
+      "title": "Aquatic plants on driftwood",
+      "page": "plants-on-driftwood.html",
+      "sci_source": null,
+      "aliases": [
+        "plant on driftwood",
+        "driftwood plants"
+      ],
+      "review_ids": [
+        "R13"
+      ]
+    },
+    "driftwood": {
+      "section": "driftwood",
+      "label": "Driftwood",
+      "title": "Driftwood",
+      "page": "driftwood.html",
+      "sci_source": null,
+      "aliases": [
+        "wood"
+      ],
+      "review_ids": [
+        "R29"
+      ]
+    },
+    "new-fishes": {
+      "section": "new",
+      "label": "New Fishes (source page)",
+      "title": "New Fishes",
+      "page": "new-fishes.html",
+      "sci_source": null,
+      "aliases": [],
+      "review_ids": [
+        "R10",
+        "R11",
+        "R12"
+      ]
+    }
+  },
+  "new_fishes": [
+    {
+      "idx": 1,
+      "id": "new-fishes-181",
+      "sci_source": "PUNTIUS DENISONI",
+      "aliases": [
+        "denisonii",
+        "denison barb",
+        "sahyadria"
+      ],
+      "proposed": {
+        "sci": "Puntius denisonii",
+        "note": "The usual spelling is “denisonii”, and the genus may since have been revised. Not confirmed by the company."
+      }
+    },
+    {
+      "idx": 2,
+      "id": "new-fishes-173",
+      "sci_source": "BOTIA KUBOTIA",
+      "aliases": [
+        "kubotai",
+        "kubota loach"
+      ],
+      "proposed": {
+        "sci": "Botia kubotai",
+        "note": "The usual spelling is “kubotai”. Not confirmed by the company."
+      }
+    }
+  ],
+  "plant_supply_forms": [
+    "Loose plants",
+    "Lead bunch",
+    "Potted plants",
+    "Plants on driftwood"
+  ],
+  "company_images": {
+    "exterior": {
+      "file": "company_photo.jpg",
+      "alt": "Front of a white industrial building with a Sanyo Aquarium Pte Ltd sign (original company photograph)"
+    },
+    "exterior_contact": {
+      "file": "sanyo.jpg",
+      "alt": "Sanyo Aquarium building with company signboard at the front (original company photograph)"
+    },
+    "facility": [
+      {
+        "file": "about_us1_11.jpg",
+        "alt": "Stacks of packed cartons in a warehouse area (original company photograph)",
+        "caption": "Packed cartons"
+      },
+      {
+        "file": "about_us2_1.jpg",
+        "alt": "Cartons and bagged fish packs on a facility floor (original company photograph)",
+        "caption": "Packing area"
+      },
+      {
+        "file": "about_us3_1.jpg",
+        "alt": "Large indoor hall with packed bags and cartons, a person working in the distance (original company photograph)",
+        "caption": "Packing hall"
+      },
+      {
+        "file": "about_us4_1.jpg",
+        "alt": "Rows of glass holding tanks in an indoor facility (original company photograph)",
+        "caption": "Holding tanks"
+      },
+      {
+        "file": "about_us5_1.jpg",
+        "alt": "Rows of glass holding tanks with equipment and buckets in an indoor facility (original company photograph)",
+        "caption": "Holding tanks"
+      }
+    ],
+    "logo": {
+      "file": "SanyoAqmLogo.gif",
+      "alt": "Sanyo Aquarium logo: two angelfish and aquatic plants"
+    },
+    "member_strip": {
+      "file": "aboutus_member.jpg",
+      "alt": "Logos of the Singapore Aquarium Fish Exporters' Association (SAFEA) and Ornamental Fish International (OFI), as shown on the original website"
+    }
+  },
+  "unused_source_assets": [
+    {
+      "file": "images/images/homepic-31-1-2007_01.jpg",
+      "reason": "Legacy home-page banner tile (372x118). Not used: low resolution and part of a baked-in slogan graphic."
+    },
+    {
+      "file": "images/images/homepic-31-1-2007_02.jpg",
+      "reason": "Legacy home-page banner tile with baked-in slogan text (“Working Together…”)."
+    },
+    {
+      "file": "images/images/homepic-31-1-2007_03.jpg",
+      "reason": "Legacy home-page banner tile with ragged torn-paper edge."
+    },
+    {
+      "file": "images/images/homepic-31-1-2007_04.jpg",
+      "reason": "Legacy home-page banner tile with baked-in slogan text (“…To Succeed”)."
+    },
+    {
+      "file": "images/SanyoPhoto.jpg",
+      "reason": "Referenced only inside an HTML comment on the source contact page (a second photo of the building). Kept in originals; the contact page uses sanyo.jpg, as the source does."
+    }
+  ]
+}

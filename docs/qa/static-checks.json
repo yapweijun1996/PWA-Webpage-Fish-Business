@@ -1,0 +1,71 @@
+{
+ "checks": [
+  {
+   "check": "all local href/src targets exist (18 pages)",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "all #fragment links point to an existing id",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "every image path inside catalogue-data.js exists",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "CSS has no external url() dependencies",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "every page: <title>, description, one <h1>, no heading-level skips, unique ids, alt on all images, lang, viewport, main, skip link",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "page titles are unique",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "every form control has a <label for> or aria-label (static markup)",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "JSON-LD (2 blocks) parses, is Organization only, with no invented url/ratings",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no canonical/og:url tags are emitted while site_url is unset (no invented deployed URL)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "robots.txt exists; sitemap.xml is not generated without site_url",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "all tel:/mailto: links use only the published number/addresses",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "site is lightweight (total 2.57 MB; no single file > 150 KB)",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "check": "no debug/temp files in site/",
+   "pass": true,
+   "detail": "[]"
+  }
+ ],
+ "passed": 13,
+ "total": 13
+}

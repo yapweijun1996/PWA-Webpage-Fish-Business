@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Preview build: noindex is ON (data/editorial.json -> site.noindex). Set it to false before public launch.

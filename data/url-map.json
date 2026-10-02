@@ -1,0 +1,136 @@
+{
+ "map": [
+  {
+   "old": "index.html",
+   "old_url": "https://www.sanyoaqm.com.sg/index.html",
+   "new": "index.html",
+   "note": "Home; the four legacy banner tiles are not migrated (see review log R22)."
+  },
+  {
+   "old": "aboutus.html",
+   "old_url": "https://www.sanyoaqm.com.sg/aboutus.html",
+   "new": "company.html",
+   "note": "Company profile; historical claims moved into a qualified section."
+  },
+  {
+   "old": "freshwaterfishes.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes.html",
+   "new": "freshwater-fishes.html",
+   "note": "Category overview; the 24 listed categories are kept in source order."
+  },
+  {
+   "old": "freshwaterfishes_platy.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy.html",
+   "new": "freshwater-platy.html",
+   "note": "Original page 1 of the Platy gallery."
+  },
+  {
+   "old": "freshwaterfishes_platy_2.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_platy_2.html",
+   "new": "freshwater-platy.html",
+   "note": "Original page 2 of the Platy gallery (combined)."
+  },
+  {
+   "old": "freshwaterfishes_molly.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_molly.html",
+   "new": "freshwater-molly.html",
+   "note": ""
+  },
+  {
+   "old": "freshwaterfishes_guppy.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_guppy.html",
+   "new": "freshwater-guppy.html",
+   "note": ""
+  },
+  {
+   "old": "freshwaterfishes_swordtail.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_swordtail.html",
+   "new": "freshwater-swordtail.html",
+   "note": ""
+  },
+  {
+   "old": "freshwaterfishes_cichild.html",
+   "old_url": "https://www.sanyoaqm.com.sg/freshwaterfishes_cichild.html",
+   "new": "freshwater-cichild.html",
+   "note": "Source spelling 'Cichild' retained."
+  },
+  {
+   "old": "marinefish.html",
+   "old_url": "https://www.sanyoaqm.com.sg/marinefish.html",
+   "new": "marine-fishes.html",
+   "note": "Marine category list (22 entries)."
+  },
+  {
+   "old": "marinefish_more_pictures_1.html",
+   "old_url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_1.html",
+   "new": "marine-fishes.html#gallery",
+   "note": "Marine photo gallery, original page 1 (combined)."
+  },
+  {
+   "old": "marinefish_more_pictures_2.html",
+   "old_url": "https://www.sanyoaqm.com.sg/marinefish_more_pictures_2.html",
+   "new": "marine-fishes.html#gallery",
+   "note": "Marine photo gallery, original page 2 (combined)."
+  },
+  {
+   "old": "aquaticplants.html",
+   "old_url": "https://www.sanyoaqm.com.sg/aquaticplants.html",
+   "new": "aquatic-plants.html",
+   "note": "Aquatic plants gallery, original page 1 of 3 (combined)."
+  },
+  {
+   "old": "aquaticplants_2.html",
+   "old_url": "https://www.sanyoaqm.com.sg/aquaticplants_2.html",
+   "new": "aquatic-plants.html",
+   "note": "Original page 2 of 3 (combined)."
+  },
+  {
+   "old": "aquaticplants_3.html",
+   "old_url": "https://www.sanyoaqm.com.sg/aquaticplants_3.html",
+   "new": "aquatic-plants.html",
+   "note": "Original page 3 of 3 (combined)."
+  },
+  {
+   "old": "aquaticplants_on_driftwood.html",
+   "old_url": "https://www.sanyoaqm.com.sg/aquaticplants_on_driftwood.html",
+   "new": "plants-on-driftwood.html",
+   "note": "Distinct source gallery retained."
+  },
+  {
+   "old": "newfishes.html",
+   "old_url": "https://www.sanyoaqm.com.sg/newfishes.html",
+   "new": "new-fishes.html",
+   "note": "Renamed 'New Fishes (source page)'; undated, not a stock statement."
+  },
+  {
+   "old": "driftwood.html",
+   "old_url": "https://www.sanyoaqm.com.sg/driftwood.html",
+   "new": "driftwood.html",
+   "note": ""
+  },
+  {
+   "old": "contact.html",
+   "old_url": "https://www.sanyoaqm.com.sg/contact.html",
+   "new": "contact.html",
+   "note": "Contact details; the source form (sendMail.php) is replaced by the enquiry workflow at enquiry.html."
+  }
+ ],
+ "new_pages_without_old_equivalent": [
+  {
+   "new": "catalogue.html",
+   "note": "New: search and filters across every photo and category."
+  },
+  {
+   "new": "enquiry.html",
+   "note": "New: enquiry list, details, review and email-draft/export (no server submission)."
+  },
+  {
+   "new": "content-notes.html",
+   "note": "New: review hand-over notes."
+  },
+  {
+   "new": "404.html",
+   "note": "New: not-found page for static hosts."
+  }
+ ]
+}
